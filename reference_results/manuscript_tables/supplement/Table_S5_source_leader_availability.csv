@@ -1,0 +1,15 @@
+Category,Code,Panel_products,Panel_N,Observed,Missing,Missing_percent,Animal_mean_observed,Animal_mean_missing,Animal_balance_p
+Bacon,334,5,92,92,0,0,6.228,,
+Bratwurst,702,4,106,106,0,0,5.896,,
+Breaded Chicken Filets,491,5,91,78,13,14.3,5.385,5.308,0.877
+Breakfast Sausages,413,5,104,104,0,0,5.798,,
+Burgers,922,5,113,113,0,0,5.46,,
+Chicken Nuggets,206,4,97,97,0,0,5.093,,
+Deli Ham,923,5,105,105,0,0,5.876,,
+Deli Turkey,491,3,101,101,0,0,5.703,,
+Hot Dogs,164,5,88,88,0,0,5.523,,
+Meatballs,859,5,99,99,0,0,6.03,,
+Pulled Pork,651,3,101,101,0,0,6.04,,
+Steak,923,5,95,95,0,0,6.074,,
+Unbreaded Chicken Filets,413,5,103,103,0,0,5.194,,
+Unbreaded Chicken Strips and Chunks,702,5,98,98,0,0,5.694,,

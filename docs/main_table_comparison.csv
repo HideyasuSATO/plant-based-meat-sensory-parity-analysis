@@ -1,0 +1,159 @@
+table,key,field,passed
+1,Unbreaded Chicken Filets,Code,True
+1,Unbreaded Chicken Filets,n,True
+1,Unbreaded Chicken Filets,Mean_difference,True
+1,Unbreaded Chicken Filets,CI90_lower,True
+1,Unbreaded Chicken Filets,CI90_upper,True
+1,Unbreaded Chicken Filets,Cohen_dz,True
+1,Unbreaded Chicken Filets,Same_or_better_percent,True
+1,Unbreaded Chicken Filets,Minimum_data_supported_margin,True
+1,Unbreaded Chicken Filets,NI_p,True
+1,Unbreaded Chicken Filets,Holm_p_14_categories,True
+1,Chicken Nuggets,Code,True
+1,Chicken Nuggets,n,True
+1,Chicken Nuggets,Mean_difference,True
+1,Chicken Nuggets,CI90_lower,True
+1,Chicken Nuggets,CI90_upper,True
+1,Chicken Nuggets,Cohen_dz,True
+1,Chicken Nuggets,Same_or_better_percent,True
+1,Chicken Nuggets,Minimum_data_supported_margin,True
+1,Chicken Nuggets,NI_p,True
+1,Chicken Nuggets,Holm_p_14_categories,True
+1,Burgers,Code,True
+1,Burgers,n,True
+1,Burgers,Mean_difference,True
+1,Burgers,CI90_lower,True
+1,Burgers,CI90_upper,True
+1,Burgers,Cohen_dz,True
+1,Burgers,Same_or_better_percent,True
+1,Burgers,Minimum_data_supported_margin,True
+1,Burgers,NI_p,True
+1,Burgers,Holm_p_14_categories,True
+1,Hot Dogs,Code,True
+1,Hot Dogs,n,True
+1,Hot Dogs,Mean_difference,True
+1,Hot Dogs,CI90_lower,True
+1,Hot Dogs,CI90_upper,True
+1,Hot Dogs,Cohen_dz,True
+1,Hot Dogs,Same_or_better_percent,True
+1,Hot Dogs,Minimum_data_supported_margin,True
+1,Hot Dogs,NI_p,True
+1,Hot Dogs,Holm_p_14_categories,True
+1,Meatballs,Code,True
+1,Meatballs,n,True
+1,Meatballs,Mean_difference,True
+1,Meatballs,CI90_lower,True
+1,Meatballs,CI90_upper,True
+1,Meatballs,Cohen_dz,True
+1,Meatballs,Same_or_better_percent,True
+1,Meatballs,Minimum_data_supported_margin,True
+1,Meatballs,NI_p,True
+1,Meatballs,Holm_p_14_categories,True
+1,Deli Turkey,Code,True
+1,Deli Turkey,n,True
+1,Deli Turkey,Mean_difference,True
+1,Deli Turkey,CI90_lower,True
+1,Deli Turkey,CI90_upper,True
+1,Deli Turkey,Cohen_dz,True
+1,Deli Turkey,Same_or_better_percent,True
+1,Deli Turkey,Minimum_data_supported_margin,True
+1,Deli Turkey,NI_p,True
+1,Deli Turkey,Holm_p_14_categories,True
+1,Breaded Chicken Filets,Code,True
+1,Breaded Chicken Filets,n,True
+1,Breaded Chicken Filets,Mean_difference,True
+1,Breaded Chicken Filets,CI90_lower,True
+1,Breaded Chicken Filets,CI90_upper,True
+1,Breaded Chicken Filets,Cohen_dz,True
+1,Breaded Chicken Filets,Same_or_better_percent,True
+1,Breaded Chicken Filets,Minimum_data_supported_margin,True
+1,Breaded Chicken Filets,NI_p,True
+1,Breaded Chicken Filets,Holm_p_14_categories,True
+1,Pulled Pork,Code,True
+1,Pulled Pork,n,True
+1,Pulled Pork,Mean_difference,True
+1,Pulled Pork,CI90_lower,True
+1,Pulled Pork,CI90_upper,True
+1,Pulled Pork,Cohen_dz,True
+1,Pulled Pork,Same_or_better_percent,True
+1,Pulled Pork,Minimum_data_supported_margin,True
+1,Pulled Pork,NI_p,True
+1,Pulled Pork,Holm_p_14_categories,True
+1,Breakfast Sausages,Code,True
+1,Breakfast Sausages,n,True
+1,Breakfast Sausages,Mean_difference,True
+1,Breakfast Sausages,CI90_lower,True
+1,Breakfast Sausages,CI90_upper,True
+1,Breakfast Sausages,Cohen_dz,True
+1,Breakfast Sausages,Same_or_better_percent,True
+1,Breakfast Sausages,Minimum_data_supported_margin,True
+1,Breakfast Sausages,NI_p,True
+1,Breakfast Sausages,Holm_p_14_categories,True
+1,Deli Ham,Code,True
+1,Deli Ham,n,True
+1,Deli Ham,Mean_difference,True
+1,Deli Ham,CI90_lower,True
+1,Deli Ham,CI90_upper,True
+1,Deli Ham,Cohen_dz,True
+1,Deli Ham,Same_or_better_percent,True
+1,Deli Ham,Minimum_data_supported_margin,True
+1,Deli Ham,NI_p,True
+1,Deli Ham,Holm_p_14_categories,True
+1,Bratwurst,Code,True
+1,Bratwurst,n,True
+1,Bratwurst,Mean_difference,True
+1,Bratwurst,CI90_lower,True
+1,Bratwurst,CI90_upper,True
+1,Bratwurst,Cohen_dz,True
+1,Bratwurst,Same_or_better_percent,True
+1,Bratwurst,Minimum_data_supported_margin,True
+1,Bratwurst,NI_p,True
+1,Bratwurst,Holm_p_14_categories,True
+1,Unbreaded Chicken Strips and Chunks,Code,True
+1,Unbreaded Chicken Strips and Chunks,n,True
+1,Unbreaded Chicken Strips and Chunks,Mean_difference,True
+1,Unbreaded Chicken Strips and Chunks,CI90_lower,True
+1,Unbreaded Chicken Strips and Chunks,CI90_upper,True
+1,Unbreaded Chicken Strips and Chunks,Cohen_dz,True
+1,Unbreaded Chicken Strips and Chunks,Same_or_better_percent,True
+1,Unbreaded Chicken Strips and Chunks,Minimum_data_supported_margin,True
+1,Unbreaded Chicken Strips and Chunks,NI_p,True
+1,Unbreaded Chicken Strips and Chunks,Holm_p_14_categories,True
+1,Steak,Code,True
+1,Steak,n,True
+1,Steak,Mean_difference,True
+1,Steak,CI90_lower,True
+1,Steak,CI90_upper,True
+1,Steak,Cohen_dz,True
+1,Steak,Same_or_better_percent,True
+1,Steak,Minimum_data_supported_margin,True
+1,Steak,NI_p,True
+1,Steak,Holm_p_14_categories,True
+1,Bacon,Code,True
+1,Bacon,n,True
+1,Bacon,Mean_difference,True
+1,Bacon,CI90_lower,True
+1,Bacon,CI90_upper,True
+1,Bacon,Cohen_dz,True
+1,Bacon,Same_or_better_percent,True
+1,Bacon,Minimum_data_supported_margin,True
+1,Bacon,NI_p,True
+1,Bacon,Holm_p_14_categories,True
+2,Overall Liking,Nominal_NI,True
+2,Overall Liking,Holm_NI_within_endpoint,True
+2,Overall Liking,Holm_NI_across_all_70,True
+2,Flavor,Nominal_NI,True
+2,Flavor,Holm_NI_within_endpoint,True
+2,Flavor,Holm_NI_across_all_70,True
+2,Texture,Nominal_NI,True
+2,Texture,Holm_NI_within_endpoint,True
+2,Texture,Holm_NI_across_all_70,True
+2,Appearance,Nominal_NI,True
+2,Appearance,Holm_NI_within_endpoint,True
+2,Appearance,Holm_NI_across_all_70,True
+2,Similarity,Nominal_NI,True
+2,Similarity,Holm_NI_within_endpoint,True
+2,Similarity,Holm_NI_across_all_70,True
+2,All endpoints,Nominal_NI,True
+2,All endpoints,Holm_NI_within_endpoint,True
+2,All endpoints,Holm_NI_across_all_70,True

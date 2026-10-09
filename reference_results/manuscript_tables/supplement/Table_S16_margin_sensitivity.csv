@@ -1,0 +1,43 @@
+Category,Margin,Source_leader_Holm_p,Minimum_candidate_Holm_p
+Bacon,0.3,1.000,1.000
+Bacon,0.5,1.000,1.000
+Bacon,0.7,1.000,1.000
+Bratwurst,0.3,1.000,1.000
+Bratwurst,0.5,1.000,1.000
+Bratwurst,0.7,1.000,1.000
+Breaded Chicken Filets,0.3,1.000,1.000
+Breaded Chicken Filets,0.5,1.000,1.000
+Breaded Chicken Filets,0.7,1.000,1.000
+Breakfast Sausages,0.3,1.000,1.000
+Breakfast Sausages,0.5,1.000,1.000
+Breakfast Sausages,0.7,1.000,0.669
+Burgers,0.3,1.000,1.000
+Burgers,0.5,1.000,1.000
+Burgers,0.7,0.221,0.185
+Chicken Nuggets,0.3,1.000,1.000
+Chicken Nuggets,0.5,0.555,0.342
+Chicken Nuggets,0.7,0.051,0.027
+Deli Ham,0.3,1.000,1.000
+Deli Ham,0.5,1.000,1.000
+Deli Ham,0.7,1.000,1.000
+Deli Turkey,0.3,1.000,1.000
+Deli Turkey,0.5,1.000,1.000
+Deli Turkey,0.7,1.000,0.787
+Hot Dogs,0.3,1.000,1.000
+Hot Dogs,0.5,1.000,1.000
+Hot Dogs,0.7,0.712,0.712
+Meatballs,0.3,1.000,1.000
+Meatballs,0.5,1.000,1.000
+Meatballs,0.7,0.689,0.313
+Pulled Pork,0.3,1.000,1.000
+Pulled Pork,0.5,1.000,1.000
+Pulled Pork,0.7,1.000,1.000
+Steak,0.3,1.000,1.000
+Steak,0.5,1.000,1.000
+Steak,0.7,1.000,1.000
+Unbreaded Chicken Filets,0.3,1.000,1.000
+Unbreaded Chicken Filets,0.5,0.140,0.100
+Unbreaded Chicken Filets,0.7,0.005,0.004
+Unbreaded Chicken Strips and Chunks,0.3,1.000,1.000
+Unbreaded Chicken Strips and Chunks,0.5,1.000,1.000
+Unbreaded Chicken Strips and Chunks,0.7,1.000,1.000

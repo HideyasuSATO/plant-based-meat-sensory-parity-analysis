@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the article and the source study when using this analysis."
+title: "Plant-based meat sensory parity reanalysis"
+type: software
+authors:
+  - family-names: Sato
+    given-names: Hideyasu
+version: 1.0.0
+date-released: 2026-10-09
+license: MIT
+preferred-citation:
+  type: article
+  title: "When is plant-based meat close enough? A multiplicity- and selection-aware non-inferiority reanalysis of sensory-parity claims"
+  authors:
+    - family-names: Sato
+      given-names: Hideyasu
+  journal: "Food Quality and Preference"
+  year: 2026
+  doi: "10.1016/j.foodqual.2026.106145"

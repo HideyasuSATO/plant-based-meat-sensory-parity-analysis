@@ -1,0 +1,15 @@
+Category,Relationship,Source_code,Best_set,Source_minimum_margin,Best_minimum_margin,Crossfit_median_minimum_margin,Partitions_meeting_nominal_NI_percent,Evaluation_coverage_percent
+Unbreaded Chicken Filets,Source leader is unique sample-best,413,413,0.374,0.374,0.374,75.8,52
+Chicken Nuggets,Source leader differs from sample-best,206,798,0.484,0.464,0.845,0,32.3
+Burgers,Source leader is unique sample-best,922,922,0.616,0.616,0.616,0,55
+Hot Dogs,Source leader is unique sample-best,164,164,0.737,0.737,0.737,0,47.3
+Meatballs,Source leader is unique sample-best,859,859,0.718,0.718,0.718,0,100
+Deli Turkey,Source leader is unique sample-best,491,491,0.786,0.786,0.786,0,50.5
+Breaded Chicken Filets,Source leader is unique sample-best,491,491,0.887,0.887,0.887,0,85.8
+Pulled Pork,Source leader is unique sample-best,651,651,0.904,0.904,0.904,0,49.5
+Breakfast Sausages,Source leader differs from sample-best,413,491,0.95,0.73,0.974,0,49.8
+Deli Ham,Source leader is unique sample-best,923,923,1.119,1.119,1.119,0,51.4
+Bratwurst,Source leader is unique sample-best,702,702,1.174,1.174,1.174,0,49.8
+Unbreaded Chicken Strips and Chunks,Source leader is unique sample-best,702,702,1.514,1.514,1.682,0,51.1
+Steak,Source leader is unique sample-best,923,923,1.846,1.846,1.982,0,48.7
+Bacon,Source leader is tied sample-best,334,257; 334,2.383,2.383,2.592,0,47.9

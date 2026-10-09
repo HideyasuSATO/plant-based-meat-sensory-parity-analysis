@@ -1,0 +1,5 @@
+scenario,missing_rating_assumption,n,mean_diff,sd_diff,se_diff,lower_one_sided_95,minimum_data_supported_margin,delta,p_ni,noninferior_nominal
+Complete-case observed ratings,No imputation; 78 respondents with the leader block,78,-0.5128205128205128,1.9852939181370455,0.22479027095335175,-0.8870703590568304,0.8870703590568304,0.5,0.522666762699183,FALSE
+Lower rating bound,Assign plant leader score 1 to all 13 unobserved ratings,91,-1.054945054945055,2.349291322754528,0.246272647068595,-1.4642406104341545,1.4642406104341545,0.5,0.9866676892776665,FALSE
+Benchmark-equal assumption,Assign plant leader score equal to each respondent's animal score,91,-0.43956043956043955,1.8451666062011323,0.193426017450629,-0.7610269532023239,0.7610269532023239,0.5,0.3777036243856787,FALSE
+Upper rating bound,Assign plant leader score 7 to all 13 unobserved ratings,91,-0.1978021978021978,2.082838769136329,0.21834082990221582,-0.5606761601545296,0.5606761601545296,0.5,0.0848806677926505,FALSE

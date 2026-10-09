@@ -1,0 +1,32 @@
+Characteristic_group,Level,n,Total_records,Nonmissing_records,Percent_all_records,Percent_nonmissing
+Age,18-25,501,2682,2682,18.7,18.7
+Age,26-35,852,2682,2682,31.8,31.8
+Age,36-45,543,2682,2682,20.2,20.2
+Age,46-55,422,2682,2682,15.7,15.7
+Age,Greater than 55,364,2682,2682,13.6,13.6
+Age,Missing/No response,0,2682,2682,0,
+Category-specific consumption frequency,Never or rarely,5,2682,2675,0.2,0.2
+Category-specific consumption frequency,2-3 times a year,7,2682,2675,0.3,0.3
+Category-specific consumption frequency,4-5 times a year,3,2682,2675,0.1,0.1
+Category-specific consumption frequency,Once every 1-2 months,638,2682,2675,23.8,23.9
+Category-specific consumption frequency,2-3 times a month,851,2682,2675,31.7,31.8
+Category-specific consumption frequency,Once a week,585,2682,2675,21.8,21.9
+Category-specific consumption frequency,2-3 times a week,530,2682,2675,19.8,19.8
+Category-specific consumption frequency,Everyday,56,2682,2675,2.1,2.1
+Category-specific consumption frequency,Missing/No response,7,2682,2675,0.3,
+Dietary preference,Omnivore,2013,2682,2675,75.1,75.3
+Dietary preference,Flexitarian,662,2682,2675,24.7,24.7
+Dietary preference,Missing/No response,7,2682,2675,0.3,
+Education,Some High School,18,2682,2675,0.7,0.7
+Education,High School,158,2682,2675,5.9,5.9
+Education,Trade School,29,2682,2675,1.1,1.1
+Education,Some College,657,2682,2675,24.5,24.6
+Education,Bachelor's Degree,1213,2682,2675,45.2,45.3
+Education,Master's Degree,516,2682,2675,19.2,19.3
+Education,Ph.D. or higher,84,2682,2675,3.1,3.1
+Education,Missing/No response,7,2682,2675,0.3,
+Gender,Female,1318,2682,2682,49.1,49.1
+Gender,Male,1240,2682,2682,46.2,46.2
+Gender,Non-binary,65,2682,2682,2.4,2.4
+Gender,Prefer not to say,59,2682,2682,2.2,2.2
+Gender,Missing/No response,0,2682,2682,0,

@@ -1,0 +1,7 @@
+Endpoint,Nominal_NI,Holm_NI_within_endpoint,Holm_NI_across_all_70,Cases_surviving_70_test_adjustment
+Overall Liking,2,0,0,
+Flavor,2,0,0,
+Texture,1,1,1,Chicken Nuggets
+Appearance,3,2,2,Chicken Nuggets; Meatballs
+Similarity,1,1,1,Chicken Nuggets
+All endpoints,9,4,4,Chicken Nuggets: Texture; Chicken Nuggets: Appearance; Meatballs: Appearance; Chicken Nuggets: Similarity

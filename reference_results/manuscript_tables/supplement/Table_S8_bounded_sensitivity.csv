@@ -1,0 +1,5 @@
+Scenario,n,Mean_difference,One_sided_95_lower,Minimum_data_supported_margin,NI_p,NI_at_0p5
+Complete-case observed ratings,78,-0.513,-0.887,0.887,0.523,FALSE
+Lower rating bound,91,-1.055,-1.464,1.464,0.987,FALSE
+Benchmark-equal assumption,91,-0.44,-0.761,0.761,0.378,FALSE
+Upper rating bound,91,-0.198,-0.561,0.561,0.085,FALSE

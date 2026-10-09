@@ -1,0 +1,15 @@
+category,category_label,source_leader_code,source_leader_display,source_n,source_panel_id,source_panel_size,source_total_observed_n,source_canonical_panel_n,source_observed_in_canonical_panel_n,source_block_missing_n,source_block_missing_rate,source_noncanonical_extra_n,animal_mean_if_source_observed,animal_mean_if_source_missing,animal_mean_missing_minus_observed,animal_balance_p_value
+Bacon,Bacon,334,Plant-based Leader / 334,92,P2,5,92,92,92,0,0,0,6.228260869565218,,,
+Bratwurst,Bratwurst,702,Plant-based Leader / 702,106,P2,4,106,106,106,0,0,0,5.89622641509434,,,
+Breaded_Chicken_Filets,Breaded Chicken Filets,491,Plant-based Leader / 491,78,P1,5,78,91,78,13,0.14285714285714285,0,5.384615384615385,5.3076923076923075,-0.07692307692307754,0.8767911488260631
+Breakfast_Sausages,Breakfast Sausages,413,Plant-based Leader / 413,104,P1,5,104,104,104,0,0,0,5.798076923076923,,,
+Burgers,Burgers,922,Plant-based Leader / 922,113,P2,5,113,113,113,0,0,0,5.460176991150442,,,
+Chicken_Nuggets,Chicken Nuggets,206,Plant-based Leader / 206,97,P1,4,97,97,97,0,0,0,5.092783505154639,,,
+Deli_Ham,Deli Ham,923,Plant-based Leader / 923,105,P1,5,105,105,105,0,0,0,5.876190476190477,,,
+Deli_Turkey,Deli Turkey,491,Plant-based Leader / 491,102,P2,3,102,101,101,0,0,1,5.702970297029703,,,
+Hot_Dogs,Hot Dogs,164,Plant-based Leader / 164,88,P1,5,88,88,88,0,0,0,5.5227272727272725,,,
+Meatballs,Meatballs,859,Plant-based Leader / 859,99,P1,5,99,99,99,0,0,0,6.03030303030303,,,
+Pulled_Pork,Pulled Pork,651,Plant-based Leader / 651,101,P2,3,101,101,101,0,0,0,6.03960396039604,,,
+Steak,Steak,923,Plant-based Leader / 923,95,P1,5,95,95,95,0,0,0,6.073684210526316,,,
+Unbreaded_Chicken_Filets,Unbreaded Chicken Filets,413,Plant-based Leader / 413,103,P1,5,103,103,103,0,0,0,5.194174757281553,,,
+Unbreaded_Chicken_StripsandChunks,Unbreaded Chicken Strips and Chunks,702,Plant-based Leader / 702,98,P1,5,98,98,98,0,0,0,5.6938775510204085,,,

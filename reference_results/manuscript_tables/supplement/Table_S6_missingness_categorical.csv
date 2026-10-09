@@ -1,0 +1,7 @@
+Variable,N,Levels,Exact_or_MC_p,Holm_p,Cramers_V,Maximum_absolute_SMD
+Age,91,5,0.557,1.000,0.193,0.542
+Gender,91,4,0.109,0.546,0.232,0.347
+Dietary preference,91,2,0.507,1.000,0.063,0.174
+Education,91,6,0.566,1.000,0.182,0.302
+Category-specific consumption frequency,91,5,0.486,1.000,0.206,0.51
+Randomizer,91,6,0.017,0.104,0.376,0.718

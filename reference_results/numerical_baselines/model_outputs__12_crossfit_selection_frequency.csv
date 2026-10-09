@@ -1,0 +1,34 @@
+category,category_label,selected_code,selected_display,selected_is_source,selected_folds,total_successful_folds,selected_share
+Bacon,Bacon,334,Plant-based Leader / 334,TRUE,1318,2500,0.5272
+Bacon,Bacon,257,Plant-based (i) / 257,FALSE,1172,2500,0.4688
+Bacon,Bacon,182,Plant-based (c) / 182,FALSE,10,2500,0.004
+Bratwurst,Bratwurst,702,Plant-based Leader / 702,TRUE,2500,2500,1
+Breaded_Chicken_Filets,Breaded Chicken Filets,491,Plant-based Leader / 491,TRUE,2490,2500,0.996
+Breaded_Chicken_Filets,Breaded Chicken Filets,922,Plant-based (a) / 922,FALSE,10,2500,0.004
+Breakfast_Sausages,Breakfast Sausages,491,Plant-based (h) / 491,FALSE,1476,2500,0.5904
+Breakfast_Sausages,Breakfast Sausages,413,Plant-based Leader / 413,TRUE,1024,2500,0.4096
+Burgers,Burgers,922,Plant-based Leader / 922,TRUE,2231,2500,0.8924
+Burgers,Burgers,164,Plant-based (a) / 164,FALSE,216,2500,0.0864
+Burgers,Burgers,206,Plant-based (i) / 206,FALSE,31,2500,0.0124
+Burgers,Burgers,285,Plant-based (d) / 285,FALSE,22,2500,0.0088
+Chicken_Nuggets,Chicken Nuggets,206,Plant-based Leader / 206,TRUE,967,2500,0.3868
+Chicken_Nuggets,Chicken Nuggets,798,Plant-based (b) / 798,FALSE,934,2500,0.3736
+Chicken_Nuggets,Chicken Nuggets,396,Plant-based (h) / 396,FALSE,446,2500,0.1784
+Chicken_Nuggets,Chicken Nuggets,426,Plant-based (a) / 426,FALSE,153,2500,0.0612
+Deli_Ham,Deli Ham,923,Plant-based Leader / 923,TRUE,2294,2500,0.9176
+Deli_Ham,Deli Ham,491,Plant-based (c) / 491,FALSE,205,2500,0.082
+Deli_Ham,Deli Ham,859,Plant-based (h) / 859,FALSE,1,2500,4e-4
+Deli_Turkey,Deli Turkey,491,Plant-based Leader / 491,TRUE,2488,2500,0.9952
+Deli_Turkey,Deli Turkey,674,Plant-based (d) / 674,FALSE,12,2500,0.0048
+Hot_Dogs,Hot Dogs,164,Plant-based Leader / 164,TRUE,2500,2500,1
+Meatballs,Meatballs,859,Plant-based Leader / 859,TRUE,2500,2500,1
+Pulled_Pork,Pulled Pork,651,Plant-based Leader / 651,TRUE,2495,2500,0.998
+Pulled_Pork,Pulled Pork,798,Plant-based (c) / 798,FALSE,5,2500,0.002
+Steak,Steak,923,Plant-based Leader / 923,TRUE,2080,2500,0.832
+Steak,Steak,413,Plant-based (a) / 413,FALSE,420,2500,0.168
+Unbreaded_Chicken_Filets,Unbreaded Chicken Filets,413,Plant-based Leader / 413,TRUE,2349,2500,0.9396
+Unbreaded_Chicken_Filets,Unbreaded Chicken Filets,257,Plant-based (e) / 257,FALSE,149,2500,0.0596
+Unbreaded_Chicken_Filets,Unbreaded Chicken Filets,923,Plant-based (i) / 923,FALSE,2,2500,8e-4
+Unbreaded_Chicken_StripsandChunks,Unbreaded Chicken Strips and Chunks,702,Plant-based Leader / 702,TRUE,1958,2500,0.7832
+Unbreaded_Chicken_StripsandChunks,Unbreaded Chicken Strips and Chunks,923,Plant-based (j) / 923,FALSE,502,2500,0.2008
+Unbreaded_Chicken_StripsandChunks,Unbreaded Chicken Strips and Chunks,548,Plant-based (a) / 548,FALSE,40,2500,0.016

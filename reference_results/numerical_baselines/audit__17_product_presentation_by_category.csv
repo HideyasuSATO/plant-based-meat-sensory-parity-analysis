@@ -1,0 +1,15 @@
+category,category_label,n_respondents,randomizer_missing_n,randomizer_missing_rate,min_plant_overall,median_plant_overall,max_plant_overall,min_animal_overall,median_animal_overall,max_animal_overall,respondents_with_5plant_1animal,pct_with_5plant_1animal,canonical_panel_respondents,special_panel_assignment_respondents,expected_plant_blocks_in_canonical_panels,observed_plant_blocks_in_canonical_panels,plant_overall_distribution,animal_overall_distribution,panel_distribution,whole_product_missing_blocks,whole_product_missing_rate
+Bacon,Bacon,192,0,0,5,5,5,1,1,1,192,1,192,0,960,960,5:192 (100.0%),1:192 (100.0%),P1:100; P2:92,0,0
+Bratwurst,Bratwurst,213,0,0,4,4,5,1,1,1,99,0.4647887323943662,213,0,959,951,4:114 (53.5%); 5:99 (46.5%),1:213 (100.0%),P1:107; P2:106,8,0.008342022940563087
+Breaded_Chicken_Filets,Breaded Chicken Filets,91,0,0,4,5,5,1,1,1,78,0.8571428571428571,91,0,455,442,4:13 (14.3%); 5:78 (85.7%),1:91 (100.0%),P1:91,13,0.02857142857142857
+Breakfast_Sausages,Breakfast Sausages,204,0,0,5,5,5,1,1,1,204,1,204,0,1020,1020,5:204 (100.0%),1:204 (100.0%),P1:104; P2:100,0,0
+Burgers,Burgers,201,0,0,5,5,5,1,1,1,201,1,201,0,1005,1005,5:201 (100.0%),1:201 (100.0%),P1:88; P2:113,0,0
+Chicken_Nuggets,Chicken Nuggets,305,199,0.6524590163934426,3,3,4,1,1,1,0,0,305,0,1012,1003,3:217 (71.1%); 4:88 (28.9%),1:305 (100.0%),P1:97; P2:102; P3:106,9,0.008893280632411068
+Deli_Ham,Deli Ham,203,0,0,4,5,5,1,1,1,105,0.5172413793103449,203,0,917,917,4:98 (48.3%); 5:105 (51.7%),1:203 (100.0%),P1:105; P2:98,0,0
+Deli_Turkey,Deli Turkey,203,1,0.0049261083743842365,0,3,7,0,1,1,0,0,201,2,703,703,0:1 (0.5%); 3:101 (49.8%); 4:100 (49.3%); 7:1 (0.5%),0:1 (0.5%); 1:202 (99.5%),CROSS_PANEL:1; EMPTY:1; P1:100; P2:101,0,0
+Hot_Dogs,Hot Dogs,186,1,0.005376344086021506,4,5,5,1,1,1,166,0.8924731182795699,186,0,930,910,4:20 (10.8%); 5:166 (89.2%),1:186 (100.0%),P1:88; P2:98,20,0.021505376344086023
+Meatballs,Meatballs,99,0,0,5,5,5,1,1,1,99,1,99,0,495,495,5:99 (100.0%),1:99 (100.0%),P1:99,0,0
+Pulled_Pork,Pulled Pork,204,0,0,3,4,4,1,1,1,0,0,204,0,715,715,3:101 (49.5%); 4:103 (50.5%),1:204 (100.0%),P1:103; P2:101,0,0
+Steak,Steak,195,0,0,2,4,5,1,1,1,95,0.48717948717948717,195,0,875,864,2:2 (1.0%); 3:7 (3.6%); 4:91 (46.7%); 5:95 (48.7%),1:195 (100.0%),P1:95; P2:100,11,0.012571428571428572
+Unbreaded_Chicken_Filets,Unbreaded Chicken Filets,197,0,0,5,5,5,1,1,1,197,1,197,0,985,985,5:197 (100.0%),1:197 (100.0%),P1:103; P2:94,0,0
+Unbreaded_Chicken_StripsandChunks,Unbreaded Chicken Strips and Chunks,189,0,0,5,5,5,1,1,1,189,1,189,0,945,945,5:189 (100.0%),1:189 (100.0%),P1:98; P2:91,0,0

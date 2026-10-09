@@ -1,0 +1,15 @@
+Category,Source_code,Source_mean,Sample_best_set,Best_mean,Number_tied,Source_minus_best,Relationship
+Bacon,334,4.152,257; 334,4.152,2,0,Source leader is tied sample-best
+Bratwurst,702,5.028,702,5.028,1,0,Source leader is unique sample-best
+Breaded Chicken Filets,491,4.872,491,4.872,1,0,Source leader is unique sample-best
+Breakfast Sausages,413,5.163,491,5.19,1,-0.027,Source leader differs from sample-best
+Burgers,922,5.15,922,5.15,1,0,Source leader is unique sample-best
+Chicken Nuggets,206,4.948,798,4.959,1,-0.01,Source leader differs from sample-best
+Deli Ham,923,5.067,923,5.067,1,0,Source leader is unique sample-best
+Deli Turkey,491,5.235,491,5.235,1,0,Source leader is unique sample-best
+Hot Dogs,164,5.125,164,5.125,1,0,Source leader is unique sample-best
+Meatballs,859,5.576,859,5.576,1,0,Source leader is unique sample-best
+Pulled Pork,651,5.436,651,5.436,1,0,Source leader is unique sample-best
+Steak,923,4.579,923,4.579,1,0,Source leader is unique sample-best
+Unbreaded Chicken Filets,413,5.117,413,5.117,1,0,Source leader is unique sample-best
+Unbreaded Chicken Strips and Chunks,702,4.551,702,4.551,1,0,Source leader is unique sample-best

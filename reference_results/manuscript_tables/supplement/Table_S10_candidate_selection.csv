@@ -1,0 +1,15 @@
+Category,Candidates,Any_nominal_NI,Any_Holm_NI,Displayed_code,Difference,Raw_p,Within_category_Holm_p
+Bacon,10,FALSE,FALSE,257,-2.076,1.000,1.000
+Bratwurst,9,FALSE,FALSE,702,-0.868,0.976,1.000
+Breaded Chicken Filets,5,FALSE,FALSE,491,-0.513,0.523,1.000
+Breakfast Sausages,10,FALSE,FALSE,491,-0.4,0.308,1.000
+Burgers,10,FALSE,FALSE,164,-0.239,0.135,1.000
+Chicken Nuggets,10,TRUE,FALSE,798,-0.134,0.034,0.342
+Deli Ham,9,FALSE,FALSE,923,-0.81,0.950,1.000
+Deli Turkey,7,FALSE,FALSE,491,-0.461,0.421,1.000
+Hot Dogs,10,FALSE,FALSE,164,-0.398,0.309,1.000
+Meatballs,5,FALSE,FALSE,859,-0.455,0.388,1.000
+Pulled Pork,7,FALSE,FALSE,651,-0.604,0.717,1.000
+Steak,9,FALSE,FALSE,923,-1.495,1.000,1.000
+Unbreaded Chicken Filets,10,TRUE,FALSE,413,-0.078,0.010,0.100
+Unbreaded Chicken Strips and Chunks,10,FALSE,FALSE,702,-1.143,0.998,1.000

@@ -1,0 +1,1886 @@
+table,key,field,passed
+S1,"('Age', '18-25')",n,True
+S1,"('Age', '18-25')",Percent_all_records,True
+S1,"('Age', '18-25')",n,True
+S1,"('Age', '18-25')",Percent_nonmissing,True
+S1,"('Age', '26-35')",n,True
+S1,"('Age', '26-35')",Percent_all_records,True
+S1,"('Age', '26-35')",n,True
+S1,"('Age', '26-35')",Percent_nonmissing,True
+S1,"('Age', '36-45')",n,True
+S1,"('Age', '36-45')",Percent_all_records,True
+S1,"('Age', '36-45')",n,True
+S1,"('Age', '36-45')",Percent_nonmissing,True
+S1,"('Age', '46-55')",n,True
+S1,"('Age', '46-55')",Percent_all_records,True
+S1,"('Age', '46-55')",n,True
+S1,"('Age', '46-55')",Percent_nonmissing,True
+S1,"('Age', 'Greater than 55')",n,True
+S1,"('Age', 'Greater than 55')",Percent_all_records,True
+S1,"('Age', 'Greater than 55')",n,True
+S1,"('Age', 'Greater than 55')",Percent_nonmissing,True
+S1,"('Age', 'Missing/No response')",n,True
+S1,"('Age', 'Missing/No response')",Percent_all_records,True
+S1,"('Category-specific consumption frequency', 'Never or rarely')",n,True
+S1,"('Category-specific consumption frequency', 'Never or rarely')",Percent_all_records,True
+S1,"('Category-specific consumption frequency', 'Never or rarely')",n,True
+S1,"('Category-specific consumption frequency', 'Never or rarely')",Percent_nonmissing,True
+S1,"('Category-specific consumption frequency', '2-3 times a year')",n,True
+S1,"('Category-specific consumption frequency', '2-3 times a year')",Percent_all_records,True
+S1,"('Category-specific consumption frequency', '2-3 times a year')",n,True
+S1,"('Category-specific consumption frequency', '2-3 times a year')",Percent_nonmissing,True
+S1,"('Category-specific consumption frequency', '4-5 times a year')",n,True
+S1,"('Category-specific consumption frequency', '4-5 times a year')",Percent_all_records,True
+S1,"('Category-specific consumption frequency', '4-5 times a year')",n,True
+S1,"('Category-specific consumption frequency', '4-5 times a year')",Percent_nonmissing,True
+S1,"('Category-specific consumption frequency', 'Once every 1-2 months')",n,True
+S1,"('Category-specific consumption frequency', 'Once every 1-2 months')",Percent_all_records,True
+S1,"('Category-specific consumption frequency', 'Once every 1-2 months')",n,True
+S1,"('Category-specific consumption frequency', 'Once every 1-2 months')",Percent_nonmissing,True
+S1,"('Category-specific consumption frequency', '2-3 times a month')",n,True
+S1,"('Category-specific consumption frequency', '2-3 times a month')",Percent_all_records,True
+S1,"('Category-specific consumption frequency', '2-3 times a month')",n,True
+S1,"('Category-specific consumption frequency', '2-3 times a month')",Percent_nonmissing,True
+S1,"('Category-specific consumption frequency', 'Once a week')",n,True
+S1,"('Category-specific consumption frequency', 'Once a week')",Percent_all_records,True
+S1,"('Category-specific consumption frequency', 'Once a week')",n,True
+S1,"('Category-specific consumption frequency', 'Once a week')",Percent_nonmissing,True
+S1,"('Category-specific consumption frequency', '2-3 times a week')",n,True
+S1,"('Category-specific consumption frequency', '2-3 times a week')",Percent_all_records,True
+S1,"('Category-specific consumption frequency', '2-3 times a week')",n,True
+S1,"('Category-specific consumption frequency', '2-3 times a week')",Percent_nonmissing,True
+S1,"('Category-specific consumption frequency', 'Everyday')",n,True
+S1,"('Category-specific consumption frequency', 'Everyday')",Percent_all_records,True
+S1,"('Category-specific consumption frequency', 'Everyday')",n,True
+S1,"('Category-specific consumption frequency', 'Everyday')",Percent_nonmissing,True
+S1,"('Category-specific consumption frequency', 'Missing/No response')",n,True
+S1,"('Category-specific consumption frequency', 'Missing/No response')",Percent_all_records,True
+S1,"('Dietary preference', 'Omnivore')",n,True
+S1,"('Dietary preference', 'Omnivore')",Percent_all_records,True
+S1,"('Dietary preference', 'Omnivore')",n,True
+S1,"('Dietary preference', 'Omnivore')",Percent_nonmissing,True
+S1,"('Dietary preference', 'Flexitarian')",n,True
+S1,"('Dietary preference', 'Flexitarian')",Percent_all_records,True
+S1,"('Dietary preference', 'Flexitarian')",n,True
+S1,"('Dietary preference', 'Flexitarian')",Percent_nonmissing,True
+S1,"('Dietary preference', 'Missing/No response')",n,True
+S1,"('Dietary preference', 'Missing/No response')",Percent_all_records,True
+S1,"('Education', 'Some High School')",n,True
+S1,"('Education', 'Some High School')",Percent_all_records,True
+S1,"('Education', 'Some High School')",n,True
+S1,"('Education', 'Some High School')",Percent_nonmissing,True
+S1,"('Education', 'High School')",n,True
+S1,"('Education', 'High School')",Percent_all_records,True
+S1,"('Education', 'High School')",n,True
+S1,"('Education', 'High School')",Percent_nonmissing,True
+S1,"('Education', 'Trade School')",n,True
+S1,"('Education', 'Trade School')",Percent_all_records,True
+S1,"('Education', 'Trade School')",n,True
+S1,"('Education', 'Trade School')",Percent_nonmissing,True
+S1,"('Education', 'Some College')",n,True
+S1,"('Education', 'Some College')",Percent_all_records,True
+S1,"('Education', 'Some College')",n,True
+S1,"('Education', 'Some College')",Percent_nonmissing,True
+S1,"('Education', 'Bachelor’s Degree')",n,True
+S1,"('Education', 'Bachelor’s Degree')",Percent_all_records,True
+S1,"('Education', 'Bachelor’s Degree')",n,True
+S1,"('Education', 'Bachelor’s Degree')",Percent_nonmissing,True
+S1,"('Education', 'Master’s Degree')",n,True
+S1,"('Education', 'Master’s Degree')",Percent_all_records,True
+S1,"('Education', 'Master’s Degree')",n,True
+S1,"('Education', 'Master’s Degree')",Percent_nonmissing,True
+S1,"('Education', 'Ph.D. or higher')",n,True
+S1,"('Education', 'Ph.D. or higher')",Percent_all_records,True
+S1,"('Education', 'Ph.D. or higher')",n,True
+S1,"('Education', 'Ph.D. or higher')",Percent_nonmissing,True
+S1,"('Education', 'Missing/No response')",n,True
+S1,"('Education', 'Missing/No response')",Percent_all_records,True
+S1,"('Gender', 'Female')",n,True
+S1,"('Gender', 'Female')",Percent_all_records,True
+S1,"('Gender', 'Female')",n,True
+S1,"('Gender', 'Female')",Percent_nonmissing,True
+S1,"('Gender', 'Male')",n,True
+S1,"('Gender', 'Male')",Percent_all_records,True
+S1,"('Gender', 'Male')",n,True
+S1,"('Gender', 'Male')",Percent_nonmissing,True
+S1,"('Gender', 'Non-binary')",n,True
+S1,"('Gender', 'Non-binary')",Percent_all_records,True
+S1,"('Gender', 'Non-binary')",n,True
+S1,"('Gender', 'Non-binary')",Percent_nonmissing,True
+S1,"('Gender', 'Prefer not to say')",n,True
+S1,"('Gender', 'Prefer not to say')",Percent_all_records,True
+S1,"('Gender', 'Prefer not to say')",n,True
+S1,"('Gender', 'Prefer not to say')",Percent_nonmissing,True
+S1,"('Gender', 'Missing/No response')",n,True
+S1,"('Gender', 'Missing/No response')",Percent_all_records,True
+S2,Bacon,N,True
+S2,Bacon,Age_18_35_n,True
+S2,Bacon,Age_18_35_percent,True
+S2,Bacon,Female_n,True
+S2,Bacon,Female_percent,True
+S2,Bacon,Male_n,True
+S2,Bacon,Male_percent,True
+S2,Bacon,Flexitarian_n,True
+S2,Bacon,Flexitarian_percent,True
+S2,Bacon,Bachelor_or_higher_n,True
+S2,Bacon,Bachelor_or_higher_percent,True
+S2,Bacon,Weekly_or_more_use_n,True
+S2,Bacon,Weekly_or_more_use_percent,True
+S2,Bacon,Any_core_characteristic_missing_n,True
+S2,Bacon,Any_core_characteristic_missing_percent,True
+S2,Bratwurst,N,True
+S2,Bratwurst,Age_18_35_n,True
+S2,Bratwurst,Age_18_35_percent,True
+S2,Bratwurst,Female_n,True
+S2,Bratwurst,Female_percent,True
+S2,Bratwurst,Male_n,True
+S2,Bratwurst,Male_percent,True
+S2,Bratwurst,Flexitarian_n,True
+S2,Bratwurst,Flexitarian_percent,True
+S2,Bratwurst,Bachelor_or_higher_n,True
+S2,Bratwurst,Bachelor_or_higher_percent,True
+S2,Bratwurst,Weekly_or_more_use_n,True
+S2,Bratwurst,Weekly_or_more_use_percent,True
+S2,Bratwurst,Any_core_characteristic_missing_n,True
+S2,Bratwurst,Any_core_characteristic_missing_percent,True
+S2,Breaded Chicken Filets,N,True
+S2,Breaded Chicken Filets,Age_18_35_n,True
+S2,Breaded Chicken Filets,Age_18_35_percent,True
+S2,Breaded Chicken Filets,Female_n,True
+S2,Breaded Chicken Filets,Female_percent,True
+S2,Breaded Chicken Filets,Male_n,True
+S2,Breaded Chicken Filets,Male_percent,True
+S2,Breaded Chicken Filets,Flexitarian_n,True
+S2,Breaded Chicken Filets,Flexitarian_percent,True
+S2,Breaded Chicken Filets,Bachelor_or_higher_n,True
+S2,Breaded Chicken Filets,Bachelor_or_higher_percent,True
+S2,Breaded Chicken Filets,Weekly_or_more_use_n,True
+S2,Breaded Chicken Filets,Weekly_or_more_use_percent,True
+S2,Breaded Chicken Filets,Any_core_characteristic_missing_n,True
+S2,Breaded Chicken Filets,Any_core_characteristic_missing_percent,True
+S2,Breakfast Sausages,N,True
+S2,Breakfast Sausages,Age_18_35_n,True
+S2,Breakfast Sausages,Age_18_35_percent,True
+S2,Breakfast Sausages,Female_n,True
+S2,Breakfast Sausages,Female_percent,True
+S2,Breakfast Sausages,Male_n,True
+S2,Breakfast Sausages,Male_percent,True
+S2,Breakfast Sausages,Flexitarian_n,True
+S2,Breakfast Sausages,Flexitarian_percent,True
+S2,Breakfast Sausages,Bachelor_or_higher_n,True
+S2,Breakfast Sausages,Bachelor_or_higher_percent,True
+S2,Breakfast Sausages,Weekly_or_more_use_n,True
+S2,Breakfast Sausages,Weekly_or_more_use_percent,True
+S2,Breakfast Sausages,Any_core_characteristic_missing_n,True
+S2,Breakfast Sausages,Any_core_characteristic_missing_percent,True
+S2,Burgers,N,True
+S2,Burgers,Age_18_35_n,True
+S2,Burgers,Age_18_35_percent,True
+S2,Burgers,Female_n,True
+S2,Burgers,Female_percent,True
+S2,Burgers,Male_n,True
+S2,Burgers,Male_percent,True
+S2,Burgers,Flexitarian_n,True
+S2,Burgers,Flexitarian_percent,True
+S2,Burgers,Bachelor_or_higher_n,True
+S2,Burgers,Bachelor_or_higher_percent,True
+S2,Burgers,Weekly_or_more_use_n,True
+S2,Burgers,Weekly_or_more_use_percent,True
+S2,Burgers,Any_core_characteristic_missing_n,True
+S2,Burgers,Any_core_characteristic_missing_percent,True
+S2,Chicken Nuggets,N,True
+S2,Chicken Nuggets,Age_18_35_n,True
+S2,Chicken Nuggets,Age_18_35_percent,True
+S2,Chicken Nuggets,Female_n,True
+S2,Chicken Nuggets,Female_percent,True
+S2,Chicken Nuggets,Male_n,True
+S2,Chicken Nuggets,Male_percent,True
+S2,Chicken Nuggets,Flexitarian_n,True
+S2,Chicken Nuggets,Flexitarian_percent,True
+S2,Chicken Nuggets,Bachelor_or_higher_n,True
+S2,Chicken Nuggets,Bachelor_or_higher_percent,True
+S2,Chicken Nuggets,Weekly_or_more_use_n,True
+S2,Chicken Nuggets,Weekly_or_more_use_percent,True
+S2,Chicken Nuggets,Any_core_characteristic_missing_n,True
+S2,Chicken Nuggets,Any_core_characteristic_missing_percent,True
+S2,Deli Ham,N,True
+S2,Deli Ham,Age_18_35_n,True
+S2,Deli Ham,Age_18_35_percent,True
+S2,Deli Ham,Female_n,True
+S2,Deli Ham,Female_percent,True
+S2,Deli Ham,Male_n,True
+S2,Deli Ham,Male_percent,True
+S2,Deli Ham,Flexitarian_n,True
+S2,Deli Ham,Flexitarian_percent,True
+S2,Deli Ham,Bachelor_or_higher_n,True
+S2,Deli Ham,Bachelor_or_higher_percent,True
+S2,Deli Ham,Weekly_or_more_use_n,True
+S2,Deli Ham,Weekly_or_more_use_percent,True
+S2,Deli Ham,Any_core_characteristic_missing_n,True
+S2,Deli Ham,Any_core_characteristic_missing_percent,True
+S2,Deli Turkey,N,True
+S2,Deli Turkey,Age_18_35_n,True
+S2,Deli Turkey,Age_18_35_percent,True
+S2,Deli Turkey,Female_n,True
+S2,Deli Turkey,Female_percent,True
+S2,Deli Turkey,Male_n,True
+S2,Deli Turkey,Male_percent,True
+S2,Deli Turkey,Flexitarian_n,True
+S2,Deli Turkey,Flexitarian_percent,True
+S2,Deli Turkey,Bachelor_or_higher_n,True
+S2,Deli Turkey,Bachelor_or_higher_percent,True
+S2,Deli Turkey,Weekly_or_more_use_n,True
+S2,Deli Turkey,Weekly_or_more_use_percent,True
+S2,Deli Turkey,Any_core_characteristic_missing_n,True
+S2,Deli Turkey,Any_core_characteristic_missing_percent,True
+S2,Hot Dogs,N,True
+S2,Hot Dogs,Age_18_35_n,True
+S2,Hot Dogs,Age_18_35_percent,True
+S2,Hot Dogs,Female_n,True
+S2,Hot Dogs,Female_percent,True
+S2,Hot Dogs,Male_n,True
+S2,Hot Dogs,Male_percent,True
+S2,Hot Dogs,Flexitarian_n,True
+S2,Hot Dogs,Flexitarian_percent,True
+S2,Hot Dogs,Bachelor_or_higher_n,True
+S2,Hot Dogs,Bachelor_or_higher_percent,True
+S2,Hot Dogs,Weekly_or_more_use_n,True
+S2,Hot Dogs,Weekly_or_more_use_percent,True
+S2,Hot Dogs,Any_core_characteristic_missing_n,True
+S2,Hot Dogs,Any_core_characteristic_missing_percent,True
+S2,Meatballs,N,True
+S2,Meatballs,Age_18_35_n,True
+S2,Meatballs,Age_18_35_percent,True
+S2,Meatballs,Female_n,True
+S2,Meatballs,Female_percent,True
+S2,Meatballs,Male_n,True
+S2,Meatballs,Male_percent,True
+S2,Meatballs,Flexitarian_n,True
+S2,Meatballs,Flexitarian_percent,True
+S2,Meatballs,Bachelor_or_higher_n,True
+S2,Meatballs,Bachelor_or_higher_percent,True
+S2,Meatballs,Weekly_or_more_use_n,True
+S2,Meatballs,Weekly_or_more_use_percent,True
+S2,Meatballs,Any_core_characteristic_missing_n,True
+S2,Meatballs,Any_core_characteristic_missing_percent,True
+S2,Pulled Pork,N,True
+S2,Pulled Pork,Age_18_35_n,True
+S2,Pulled Pork,Age_18_35_percent,True
+S2,Pulled Pork,Female_n,True
+S2,Pulled Pork,Female_percent,True
+S2,Pulled Pork,Male_n,True
+S2,Pulled Pork,Male_percent,True
+S2,Pulled Pork,Flexitarian_n,True
+S2,Pulled Pork,Flexitarian_percent,True
+S2,Pulled Pork,Bachelor_or_higher_n,True
+S2,Pulled Pork,Bachelor_or_higher_percent,True
+S2,Pulled Pork,Weekly_or_more_use_n,True
+S2,Pulled Pork,Weekly_or_more_use_percent,True
+S2,Pulled Pork,Any_core_characteristic_missing_n,True
+S2,Pulled Pork,Any_core_characteristic_missing_percent,True
+S2,Steak,N,True
+S2,Steak,Age_18_35_n,True
+S2,Steak,Age_18_35_percent,True
+S2,Steak,Female_n,True
+S2,Steak,Female_percent,True
+S2,Steak,Male_n,True
+S2,Steak,Male_percent,True
+S2,Steak,Flexitarian_n,True
+S2,Steak,Flexitarian_percent,True
+S2,Steak,Bachelor_or_higher_n,True
+S2,Steak,Bachelor_or_higher_percent,True
+S2,Steak,Weekly_or_more_use_n,True
+S2,Steak,Weekly_or_more_use_percent,True
+S2,Steak,Any_core_characteristic_missing_n,True
+S2,Steak,Any_core_characteristic_missing_percent,True
+S2,Unbreaded Chicken Filets,N,True
+S2,Unbreaded Chicken Filets,Age_18_35_n,True
+S2,Unbreaded Chicken Filets,Age_18_35_percent,True
+S2,Unbreaded Chicken Filets,Female_n,True
+S2,Unbreaded Chicken Filets,Female_percent,True
+S2,Unbreaded Chicken Filets,Male_n,True
+S2,Unbreaded Chicken Filets,Male_percent,True
+S2,Unbreaded Chicken Filets,Flexitarian_n,True
+S2,Unbreaded Chicken Filets,Flexitarian_percent,True
+S2,Unbreaded Chicken Filets,Bachelor_or_higher_n,True
+S2,Unbreaded Chicken Filets,Bachelor_or_higher_percent,True
+S2,Unbreaded Chicken Filets,Weekly_or_more_use_n,True
+S2,Unbreaded Chicken Filets,Weekly_or_more_use_percent,True
+S2,Unbreaded Chicken Filets,Any_core_characteristic_missing_n,True
+S2,Unbreaded Chicken Filets,Any_core_characteristic_missing_percent,True
+S2,Unbreaded Chicken Strips and Chunks,N,True
+S2,Unbreaded Chicken Strips and Chunks,Age_18_35_n,True
+S2,Unbreaded Chicken Strips and Chunks,Age_18_35_percent,True
+S2,Unbreaded Chicken Strips and Chunks,Female_n,True
+S2,Unbreaded Chicken Strips and Chunks,Female_percent,True
+S2,Unbreaded Chicken Strips and Chunks,Male_n,True
+S2,Unbreaded Chicken Strips and Chunks,Male_percent,True
+S2,Unbreaded Chicken Strips and Chunks,Flexitarian_n,True
+S2,Unbreaded Chicken Strips and Chunks,Flexitarian_percent,True
+S2,Unbreaded Chicken Strips and Chunks,Bachelor_or_higher_n,True
+S2,Unbreaded Chicken Strips and Chunks,Bachelor_or_higher_percent,True
+S2,Unbreaded Chicken Strips and Chunks,Weekly_or_more_use_n,True
+S2,Unbreaded Chicken Strips and Chunks,Weekly_or_more_use_percent,True
+S2,Unbreaded Chicken Strips and Chunks,Any_core_characteristic_missing_n,True
+S2,Unbreaded Chicken Strips and Chunks,Any_core_characteristic_missing_percent,True
+S3,Bacon,Source_code,True
+S3,Bacon,Source_mean,True
+S3,Bacon,Best_mean,True
+S3,Bacon,Number_tied,True
+S3,Bacon,Source_minus_best,True
+S3,Bratwurst,Source_code,True
+S3,Bratwurst,Source_mean,True
+S3,Bratwurst,Best_mean,True
+S3,Bratwurst,Number_tied,True
+S3,Bratwurst,Source_minus_best,True
+S3,Breaded Chicken Filets,Source_code,True
+S3,Breaded Chicken Filets,Source_mean,True
+S3,Breaded Chicken Filets,Best_mean,True
+S3,Breaded Chicken Filets,Number_tied,True
+S3,Breaded Chicken Filets,Source_minus_best,True
+S3,Breakfast Sausages,Source_code,True
+S3,Breakfast Sausages,Source_mean,True
+S3,Breakfast Sausages,Best_mean,True
+S3,Breakfast Sausages,Number_tied,True
+S3,Breakfast Sausages,Source_minus_best,True
+S3,Burgers,Source_code,True
+S3,Burgers,Source_mean,True
+S3,Burgers,Best_mean,True
+S3,Burgers,Number_tied,True
+S3,Burgers,Source_minus_best,True
+S3,Chicken Nuggets,Source_code,True
+S3,Chicken Nuggets,Source_mean,True
+S3,Chicken Nuggets,Best_mean,True
+S3,Chicken Nuggets,Number_tied,True
+S3,Chicken Nuggets,Source_minus_best,True
+S3,Deli Ham,Source_code,True
+S3,Deli Ham,Source_mean,True
+S3,Deli Ham,Best_mean,True
+S3,Deli Ham,Number_tied,True
+S3,Deli Ham,Source_minus_best,True
+S3,Deli Turkey,Source_code,True
+S3,Deli Turkey,Source_mean,True
+S3,Deli Turkey,Best_mean,True
+S3,Deli Turkey,Number_tied,True
+S3,Deli Turkey,Source_minus_best,True
+S3,Hot Dogs,Source_code,True
+S3,Hot Dogs,Source_mean,True
+S3,Hot Dogs,Best_mean,True
+S3,Hot Dogs,Number_tied,True
+S3,Hot Dogs,Source_minus_best,True
+S3,Meatballs,Source_code,True
+S3,Meatballs,Source_mean,True
+S3,Meatballs,Best_mean,True
+S3,Meatballs,Number_tied,True
+S3,Meatballs,Source_minus_best,True
+S3,Pulled Pork,Source_code,True
+S3,Pulled Pork,Source_mean,True
+S3,Pulled Pork,Best_mean,True
+S3,Pulled Pork,Number_tied,True
+S3,Pulled Pork,Source_minus_best,True
+S3,Steak,Source_code,True
+S3,Steak,Source_mean,True
+S3,Steak,Best_mean,True
+S3,Steak,Number_tied,True
+S3,Steak,Source_minus_best,True
+S3,Unbreaded Chicken Filets,Source_code,True
+S3,Unbreaded Chicken Filets,Source_mean,True
+S3,Unbreaded Chicken Filets,Best_mean,True
+S3,Unbreaded Chicken Filets,Number_tied,True
+S3,Unbreaded Chicken Filets,Source_minus_best,True
+S3,Unbreaded Chicken Strips and Chunks,Source_code,True
+S3,Unbreaded Chicken Strips and Chunks,Source_mean,True
+S3,Unbreaded Chicken Strips and Chunks,Best_mean,True
+S3,Unbreaded Chicken Strips and Chunks,Number_tied,True
+S3,Unbreaded Chicken Strips and Chunks,Source_minus_best,True
+S4,Bacon,Randomizer_missing_n,True
+S4,Bacon,Plant_count_minimum,True
+S4,Bacon,Plant_count_maximum,True
+S4,Bacon,Records,True
+S4,Bacon,Expected_blocks,True
+S4,Bacon,Missing_blocks,True
+S4,Bacon,Missing_percent,True
+S4,Bratwurst,Randomizer_missing_n,True
+S4,Bratwurst,Plant_count_minimum,True
+S4,Bratwurst,Plant_count_maximum,True
+S4,Bratwurst,Records,True
+S4,Bratwurst,Expected_blocks,True
+S4,Bratwurst,Missing_blocks,True
+S4,Bratwurst,Missing_percent,True
+S4,Breaded Chicken Filets,Randomizer_missing_n,True
+S4,Breaded Chicken Filets,Plant_count_minimum,True
+S4,Breaded Chicken Filets,Plant_count_maximum,True
+S4,Breaded Chicken Filets,Records,True
+S4,Breaded Chicken Filets,Expected_blocks,True
+S4,Breaded Chicken Filets,Missing_blocks,True
+S4,Breaded Chicken Filets,Missing_percent,True
+S4,Breakfast Sausages,Randomizer_missing_n,True
+S4,Breakfast Sausages,Plant_count_minimum,True
+S4,Breakfast Sausages,Plant_count_maximum,True
+S4,Breakfast Sausages,Records,True
+S4,Breakfast Sausages,Expected_blocks,True
+S4,Breakfast Sausages,Missing_blocks,True
+S4,Breakfast Sausages,Missing_percent,True
+S4,Burgers,Randomizer_missing_n,True
+S4,Burgers,Plant_count_minimum,True
+S4,Burgers,Plant_count_maximum,True
+S4,Burgers,Records,True
+S4,Burgers,Expected_blocks,True
+S4,Burgers,Missing_blocks,True
+S4,Burgers,Missing_percent,True
+S4,Chicken Nuggets,Randomizer_missing_n,True
+S4,Chicken Nuggets,Plant_count_minimum,True
+S4,Chicken Nuggets,Plant_count_maximum,True
+S4,Chicken Nuggets,Records,True
+S4,Chicken Nuggets,Expected_blocks,True
+S4,Chicken Nuggets,Missing_blocks,True
+S4,Chicken Nuggets,Missing_percent,True
+S4,Deli Ham,Randomizer_missing_n,True
+S4,Deli Ham,Plant_count_minimum,True
+S4,Deli Ham,Plant_count_maximum,True
+S4,Deli Ham,Records,True
+S4,Deli Ham,Expected_blocks,True
+S4,Deli Ham,Missing_blocks,True
+S4,Deli Ham,Missing_percent,True
+S4,Deli Turkey,Randomizer_missing_n,True
+S4,Deli Turkey,Plant_count_minimum,True
+S4,Deli Turkey,Plant_count_maximum,True
+S4,Deli Turkey,Records,True
+S4,Deli Turkey,Expected_blocks,True
+S4,Deli Turkey,Missing_blocks,True
+S4,Deli Turkey,Missing_percent,True
+S4,Hot Dogs,Randomizer_missing_n,True
+S4,Hot Dogs,Plant_count_minimum,True
+S4,Hot Dogs,Plant_count_maximum,True
+S4,Hot Dogs,Records,True
+S4,Hot Dogs,Expected_blocks,True
+S4,Hot Dogs,Missing_blocks,True
+S4,Hot Dogs,Missing_percent,True
+S4,Meatballs,Randomizer_missing_n,True
+S4,Meatballs,Plant_count_minimum,True
+S4,Meatballs,Plant_count_maximum,True
+S4,Meatballs,Records,True
+S4,Meatballs,Expected_blocks,True
+S4,Meatballs,Missing_blocks,True
+S4,Meatballs,Missing_percent,True
+S4,Pulled Pork,Randomizer_missing_n,True
+S4,Pulled Pork,Plant_count_minimum,True
+S4,Pulled Pork,Plant_count_maximum,True
+S4,Pulled Pork,Records,True
+S4,Pulled Pork,Expected_blocks,True
+S4,Pulled Pork,Missing_blocks,True
+S4,Pulled Pork,Missing_percent,True
+S4,Steak,Randomizer_missing_n,True
+S4,Steak,Plant_count_minimum,True
+S4,Steak,Plant_count_maximum,True
+S4,Steak,Records,True
+S4,Steak,Expected_blocks,True
+S4,Steak,Missing_blocks,True
+S4,Steak,Missing_percent,True
+S4,Unbreaded Chicken Filets,Randomizer_missing_n,True
+S4,Unbreaded Chicken Filets,Plant_count_minimum,True
+S4,Unbreaded Chicken Filets,Plant_count_maximum,True
+S4,Unbreaded Chicken Filets,Records,True
+S4,Unbreaded Chicken Filets,Expected_blocks,True
+S4,Unbreaded Chicken Filets,Missing_blocks,True
+S4,Unbreaded Chicken Filets,Missing_percent,True
+S4,Unbreaded Chicken Strips and Chunks,Randomizer_missing_n,True
+S4,Unbreaded Chicken Strips and Chunks,Plant_count_minimum,True
+S4,Unbreaded Chicken Strips and Chunks,Plant_count_maximum,True
+S4,Unbreaded Chicken Strips and Chunks,Records,True
+S4,Unbreaded Chicken Strips and Chunks,Expected_blocks,True
+S4,Unbreaded Chicken Strips and Chunks,Missing_blocks,True
+S4,Unbreaded Chicken Strips and Chunks,Missing_percent,True
+S5,Bacon,Code,True
+S5,Bacon,Panel_products,True
+S5,Bacon,Panel_N,True
+S5,Bacon,Observed,True
+S5,Bacon,Missing,True
+S5,Bacon,Missing_percent,True
+S5,Bacon,Animal_mean_observed,True
+S5,Bacon,Animal_mean_missing,True
+S5,Bacon,Animal_balance_p,True
+S5,Bratwurst,Code,True
+S5,Bratwurst,Panel_products,True
+S5,Bratwurst,Panel_N,True
+S5,Bratwurst,Observed,True
+S5,Bratwurst,Missing,True
+S5,Bratwurst,Missing_percent,True
+S5,Bratwurst,Animal_mean_observed,True
+S5,Bratwurst,Animal_mean_missing,True
+S5,Bratwurst,Animal_balance_p,True
+S5,Breaded Chicken Filets,Code,True
+S5,Breaded Chicken Filets,Panel_products,True
+S5,Breaded Chicken Filets,Panel_N,True
+S5,Breaded Chicken Filets,Observed,True
+S5,Breaded Chicken Filets,Missing,True
+S5,Breaded Chicken Filets,Missing_percent,True
+S5,Breaded Chicken Filets,Animal_mean_observed,True
+S5,Breaded Chicken Filets,Animal_mean_missing,True
+S5,Breaded Chicken Filets,Animal_balance_p,True
+S5,Breakfast Sausages,Code,True
+S5,Breakfast Sausages,Panel_products,True
+S5,Breakfast Sausages,Panel_N,True
+S5,Breakfast Sausages,Observed,True
+S5,Breakfast Sausages,Missing,True
+S5,Breakfast Sausages,Missing_percent,True
+S5,Breakfast Sausages,Animal_mean_observed,True
+S5,Breakfast Sausages,Animal_mean_missing,True
+S5,Breakfast Sausages,Animal_balance_p,True
+S5,Burgers,Code,True
+S5,Burgers,Panel_products,True
+S5,Burgers,Panel_N,True
+S5,Burgers,Observed,True
+S5,Burgers,Missing,True
+S5,Burgers,Missing_percent,True
+S5,Burgers,Animal_mean_observed,True
+S5,Burgers,Animal_mean_missing,True
+S5,Burgers,Animal_balance_p,True
+S5,Chicken Nuggets,Code,True
+S5,Chicken Nuggets,Panel_products,True
+S5,Chicken Nuggets,Panel_N,True
+S5,Chicken Nuggets,Observed,True
+S5,Chicken Nuggets,Missing,True
+S5,Chicken Nuggets,Missing_percent,True
+S5,Chicken Nuggets,Animal_mean_observed,True
+S5,Chicken Nuggets,Animal_mean_missing,True
+S5,Chicken Nuggets,Animal_balance_p,True
+S5,Deli Ham,Code,True
+S5,Deli Ham,Panel_products,True
+S5,Deli Ham,Panel_N,True
+S5,Deli Ham,Observed,True
+S5,Deli Ham,Missing,True
+S5,Deli Ham,Missing_percent,True
+S5,Deli Ham,Animal_mean_observed,True
+S5,Deli Ham,Animal_mean_missing,True
+S5,Deli Ham,Animal_balance_p,True
+S5,Deli Turkey,Code,True
+S5,Deli Turkey,Panel_products,True
+S5,Deli Turkey,Panel_N,True
+S5,Deli Turkey,Observed,True
+S5,Deli Turkey,Missing,True
+S5,Deli Turkey,Missing_percent,True
+S5,Deli Turkey,Animal_mean_observed,True
+S5,Deli Turkey,Animal_mean_missing,True
+S5,Deli Turkey,Animal_balance_p,True
+S5,Hot Dogs,Code,True
+S5,Hot Dogs,Panel_products,True
+S5,Hot Dogs,Panel_N,True
+S5,Hot Dogs,Observed,True
+S5,Hot Dogs,Missing,True
+S5,Hot Dogs,Missing_percent,True
+S5,Hot Dogs,Animal_mean_observed,True
+S5,Hot Dogs,Animal_mean_missing,True
+S5,Hot Dogs,Animal_balance_p,True
+S5,Meatballs,Code,True
+S5,Meatballs,Panel_products,True
+S5,Meatballs,Panel_N,True
+S5,Meatballs,Observed,True
+S5,Meatballs,Missing,True
+S5,Meatballs,Missing_percent,True
+S5,Meatballs,Animal_mean_observed,True
+S5,Meatballs,Animal_mean_missing,True
+S5,Meatballs,Animal_balance_p,True
+S5,Pulled Pork,Code,True
+S5,Pulled Pork,Panel_products,True
+S5,Pulled Pork,Panel_N,True
+S5,Pulled Pork,Observed,True
+S5,Pulled Pork,Missing,True
+S5,Pulled Pork,Missing_percent,True
+S5,Pulled Pork,Animal_mean_observed,True
+S5,Pulled Pork,Animal_mean_missing,True
+S5,Pulled Pork,Animal_balance_p,True
+S5,Steak,Code,True
+S5,Steak,Panel_products,True
+S5,Steak,Panel_N,True
+S5,Steak,Observed,True
+S5,Steak,Missing,True
+S5,Steak,Missing_percent,True
+S5,Steak,Animal_mean_observed,True
+S5,Steak,Animal_mean_missing,True
+S5,Steak,Animal_balance_p,True
+S5,Unbreaded Chicken Filets,Code,True
+S5,Unbreaded Chicken Filets,Panel_products,True
+S5,Unbreaded Chicken Filets,Panel_N,True
+S5,Unbreaded Chicken Filets,Observed,True
+S5,Unbreaded Chicken Filets,Missing,True
+S5,Unbreaded Chicken Filets,Missing_percent,True
+S5,Unbreaded Chicken Filets,Animal_mean_observed,True
+S5,Unbreaded Chicken Filets,Animal_mean_missing,True
+S5,Unbreaded Chicken Filets,Animal_balance_p,True
+S5,Unbreaded Chicken Strips and Chunks,Code,True
+S5,Unbreaded Chicken Strips and Chunks,Panel_products,True
+S5,Unbreaded Chicken Strips and Chunks,Panel_N,True
+S5,Unbreaded Chicken Strips and Chunks,Observed,True
+S5,Unbreaded Chicken Strips and Chunks,Missing,True
+S5,Unbreaded Chicken Strips and Chunks,Missing_percent,True
+S5,Unbreaded Chicken Strips and Chunks,Animal_mean_observed,True
+S5,Unbreaded Chicken Strips and Chunks,Animal_mean_missing,True
+S5,Unbreaded Chicken Strips and Chunks,Animal_balance_p,True
+S6,Age,N,True
+S6,Age,Levels,True
+S6,Age,Exact_or_MC_p,True
+S6,Age,Holm_p,True
+S6,Age,Cramers_V,True
+S6,Age,Maximum_absolute_SMD,True
+S6,Gender,N,True
+S6,Gender,Levels,True
+S6,Gender,Exact_or_MC_p,True
+S6,Gender,Holm_p,True
+S6,Gender,Cramers_V,True
+S6,Gender,Maximum_absolute_SMD,True
+S6,Dietary preference,N,True
+S6,Dietary preference,Levels,True
+S6,Dietary preference,Exact_or_MC_p,True
+S6,Dietary preference,Holm_p,True
+S6,Dietary preference,Cramers_V,True
+S6,Dietary preference,Maximum_absolute_SMD,True
+S6,Education,N,True
+S6,Education,Levels,True
+S6,Education,Exact_or_MC_p,True
+S6,Education,Holm_p,True
+S6,Education,Cramers_V,True
+S6,Education,Maximum_absolute_SMD,True
+S6,Category-specific consumption frequency,N,True
+S6,Category-specific consumption frequency,Levels,True
+S6,Category-specific consumption frequency,Exact_or_MC_p,True
+S6,Category-specific consumption frequency,Holm_p,True
+S6,Category-specific consumption frequency,Cramers_V,True
+S6,Category-specific consumption frequency,Maximum_absolute_SMD,True
+S6,Randomizer,N,True
+S6,Randomizer,Levels,True
+S6,Randomizer,Exact_or_MC_p,True
+S6,Randomizer,Holm_p,True
+S6,Randomizer,Cramers_V,True
+S6,Randomizer,Maximum_absolute_SMD,True
+S7,Age category ordinal score (1=18-25; 5=>55),n_observed,True
+S7,Age category ordinal score (1=18-25; 5=>55),Mean_observed,True
+S7,Age category ordinal score (1=18-25; 5=>55),n_missing,True
+S7,Age category ordinal score (1=18-25; 5=>55),Mean_missing,True
+S7,Age category ordinal score (1=18-25; 5=>55),Missing_minus_observed,True
+S7,Age category ordinal score (1=18-25; 5=>55),SMD,True
+S7,Age category ordinal score (1=18-25; 5=>55),Welch_p,True
+S7,Age category ordinal score (1=18-25; 5=>55),Wilcoxon_p,True
+S7,Consumption-frequency ordinal score (0=never/rarely; 7=everyday),n_observed,True
+S7,Consumption-frequency ordinal score (0=never/rarely; 7=everyday),Mean_observed,True
+S7,Consumption-frequency ordinal score (0=never/rarely; 7=everyday),n_missing,True
+S7,Consumption-frequency ordinal score (0=never/rarely; 7=everyday),Mean_missing,True
+S7,Consumption-frequency ordinal score (0=never/rarely; 7=everyday),Missing_minus_observed,True
+S7,Consumption-frequency ordinal score (0=never/rarely; 7=everyday),SMD,True
+S7,Consumption-frequency ordinal score (0=never/rarely; 7=everyday),Welch_p,True
+S7,Consumption-frequency ordinal score (0=never/rarely; 7=everyday),Wilcoxon_p,True
+S7,Animal-benchmark Overall Liking (1-7),n_observed,True
+S7,Animal-benchmark Overall Liking (1-7),Mean_observed,True
+S7,Animal-benchmark Overall Liking (1-7),n_missing,True
+S7,Animal-benchmark Overall Liking (1-7),Mean_missing,True
+S7,Animal-benchmark Overall Liking (1-7),Missing_minus_observed,True
+S7,Animal-benchmark Overall Liking (1-7),SMD,True
+S7,Animal-benchmark Overall Liking (1-7),Welch_p,True
+S7,Animal-benchmark Overall Liking (1-7),Wilcoxon_p,True
+S8,Complete-case observed ratings,NI_at_0p5,True
+S8,Complete-case observed ratings,n,True
+S8,Complete-case observed ratings,Mean_difference,True
+S8,Complete-case observed ratings,One_sided_95_lower,True
+S8,Complete-case observed ratings,Minimum_data_supported_margin,True
+S8,Complete-case observed ratings,NI_p,True
+S8,Lower rating bound,NI_at_0p5,True
+S8,Lower rating bound,n,True
+S8,Lower rating bound,Mean_difference,True
+S8,Lower rating bound,One_sided_95_lower,True
+S8,Lower rating bound,Minimum_data_supported_margin,True
+S8,Lower rating bound,NI_p,True
+S8,Benchmark-equal assumption,NI_at_0p5,True
+S8,Benchmark-equal assumption,n,True
+S8,Benchmark-equal assumption,Mean_difference,True
+S8,Benchmark-equal assumption,One_sided_95_lower,True
+S8,Benchmark-equal assumption,Minimum_data_supported_margin,True
+S8,Benchmark-equal assumption,NI_p,True
+S8,Upper rating bound,NI_at_0p5,True
+S8,Upper rating bound,n,True
+S8,Upper rating bound,Mean_difference,True
+S8,Upper rating bound,One_sided_95_lower,True
+S8,Upper rating bound,Minimum_data_supported_margin,True
+S8,Upper rating bound,NI_p,True
+S9,"('Unbreaded Chicken Filets', 'Overall Liking')",CI90_lower,True
+S9,"('Unbreaded Chicken Filets', 'Overall Liking')",CI90_upper,True
+S9,Unbreaded Chicken Filets,n,True
+S9,Unbreaded Chicken Filets,Difference,True
+S9,Unbreaded Chicken Filets,Cohen_dz,True
+S9,Unbreaded Chicken Filets,Minimum_data_supported_margin,True
+S9,Unbreaded Chicken Filets,NI_p,True
+S9,Unbreaded Chicken Filets,Endpoint_Holm_p,True
+S9,Unbreaded Chicken Filets,All_70_Holm_p,True
+S9,"('Unbreaded Chicken Filets', 'Flavor')",CI90_lower,True
+S9,"('Unbreaded Chicken Filets', 'Flavor')",CI90_upper,True
+S9,Unbreaded Chicken Filets,n,True
+S9,Unbreaded Chicken Filets,Difference,True
+S9,Unbreaded Chicken Filets,Cohen_dz,True
+S9,Unbreaded Chicken Filets,Minimum_data_supported_margin,True
+S9,Unbreaded Chicken Filets,NI_p,True
+S9,Unbreaded Chicken Filets,Endpoint_Holm_p,True
+S9,Unbreaded Chicken Filets,All_70_Holm_p,True
+S9,"('Unbreaded Chicken Filets', 'Texture')",CI90_lower,True
+S9,"('Unbreaded Chicken Filets', 'Texture')",CI90_upper,True
+S9,Unbreaded Chicken Filets,n,True
+S9,Unbreaded Chicken Filets,Difference,True
+S9,Unbreaded Chicken Filets,Cohen_dz,True
+S9,Unbreaded Chicken Filets,Minimum_data_supported_margin,True
+S9,Unbreaded Chicken Filets,NI_p,True
+S9,Unbreaded Chicken Filets,Endpoint_Holm_p,True
+S9,Unbreaded Chicken Filets,All_70_Holm_p,True
+S9,"('Unbreaded Chicken Filets', 'Appearance')",CI90_lower,True
+S9,"('Unbreaded Chicken Filets', 'Appearance')",CI90_upper,True
+S9,Unbreaded Chicken Filets,n,True
+S9,Unbreaded Chicken Filets,Difference,True
+S9,Unbreaded Chicken Filets,Cohen_dz,True
+S9,Unbreaded Chicken Filets,Minimum_data_supported_margin,True
+S9,Unbreaded Chicken Filets,NI_p,True
+S9,Unbreaded Chicken Filets,Endpoint_Holm_p,True
+S9,Unbreaded Chicken Filets,All_70_Holm_p,True
+S9,"('Unbreaded Chicken Filets', 'Similarity')",CI90_lower,True
+S9,"('Unbreaded Chicken Filets', 'Similarity')",CI90_upper,True
+S9,Unbreaded Chicken Filets,n,True
+S9,Unbreaded Chicken Filets,Difference,True
+S9,Unbreaded Chicken Filets,Cohen_dz,True
+S9,Unbreaded Chicken Filets,Minimum_data_supported_margin,True
+S9,Unbreaded Chicken Filets,NI_p,True
+S9,Unbreaded Chicken Filets,Endpoint_Holm_p,True
+S9,Unbreaded Chicken Filets,All_70_Holm_p,True
+S9,"('Chicken Nuggets', 'Overall Liking')",CI90_lower,True
+S9,"('Chicken Nuggets', 'Overall Liking')",CI90_upper,True
+S9,Chicken Nuggets,n,True
+S9,Chicken Nuggets,Difference,True
+S9,Chicken Nuggets,Cohen_dz,True
+S9,Chicken Nuggets,Minimum_data_supported_margin,True
+S9,Chicken Nuggets,NI_p,True
+S9,Chicken Nuggets,Endpoint_Holm_p,True
+S9,Chicken Nuggets,All_70_Holm_p,True
+S9,"('Chicken Nuggets', 'Flavor')",CI90_lower,True
+S9,"('Chicken Nuggets', 'Flavor')",CI90_upper,True
+S9,Chicken Nuggets,n,True
+S9,Chicken Nuggets,Difference,True
+S9,Chicken Nuggets,Cohen_dz,True
+S9,Chicken Nuggets,Minimum_data_supported_margin,True
+S9,Chicken Nuggets,NI_p,True
+S9,Chicken Nuggets,Endpoint_Holm_p,True
+S9,Chicken Nuggets,All_70_Holm_p,True
+S9,"('Chicken Nuggets', 'Texture')",CI90_lower,True
+S9,"('Chicken Nuggets', 'Texture')",CI90_upper,True
+S9,Chicken Nuggets,n,True
+S9,Chicken Nuggets,Difference,True
+S9,Chicken Nuggets,Cohen_dz,True
+S9,Chicken Nuggets,Minimum_data_supported_margin,True
+S9,Chicken Nuggets,NI_p,True
+S9,Chicken Nuggets,Endpoint_Holm_p,True
+S9,Chicken Nuggets,All_70_Holm_p,True
+S9,"('Chicken Nuggets', 'Appearance')",CI90_lower,True
+S9,"('Chicken Nuggets', 'Appearance')",CI90_upper,True
+S9,Chicken Nuggets,n,True
+S9,Chicken Nuggets,Difference,True
+S9,Chicken Nuggets,Cohen_dz,True
+S9,Chicken Nuggets,Minimum_data_supported_margin,True
+S9,Chicken Nuggets,NI_p,True
+S9,Chicken Nuggets,Endpoint_Holm_p,True
+S9,Chicken Nuggets,All_70_Holm_p,True
+S9,"('Chicken Nuggets', 'Similarity')",CI90_lower,True
+S9,"('Chicken Nuggets', 'Similarity')",CI90_upper,True
+S9,Chicken Nuggets,n,True
+S9,Chicken Nuggets,Difference,True
+S9,Chicken Nuggets,Cohen_dz,True
+S9,Chicken Nuggets,Minimum_data_supported_margin,True
+S9,Chicken Nuggets,NI_p,True
+S9,Chicken Nuggets,Endpoint_Holm_p,True
+S9,Chicken Nuggets,All_70_Holm_p,True
+S9,"('Burgers', 'Overall Liking')",CI90_lower,True
+S9,"('Burgers', 'Overall Liking')",CI90_upper,True
+S9,Burgers,n,True
+S9,Burgers,Difference,True
+S9,Burgers,Cohen_dz,True
+S9,Burgers,Minimum_data_supported_margin,True
+S9,Burgers,NI_p,True
+S9,Burgers,Endpoint_Holm_p,True
+S9,Burgers,All_70_Holm_p,True
+S9,"('Burgers', 'Flavor')",CI90_lower,True
+S9,"('Burgers', 'Flavor')",CI90_upper,True
+S9,Burgers,n,True
+S9,Burgers,Difference,True
+S9,Burgers,Cohen_dz,True
+S9,Burgers,Minimum_data_supported_margin,True
+S9,Burgers,NI_p,True
+S9,Burgers,Endpoint_Holm_p,True
+S9,Burgers,All_70_Holm_p,True
+S9,"('Burgers', 'Texture')",CI90_lower,True
+S9,"('Burgers', 'Texture')",CI90_upper,True
+S9,Burgers,n,True
+S9,Burgers,Difference,True
+S9,Burgers,Cohen_dz,True
+S9,Burgers,Minimum_data_supported_margin,True
+S9,Burgers,NI_p,True
+S9,Burgers,Endpoint_Holm_p,True
+S9,Burgers,All_70_Holm_p,True
+S9,"('Burgers', 'Appearance')",CI90_lower,True
+S9,"('Burgers', 'Appearance')",CI90_upper,True
+S9,Burgers,n,True
+S9,Burgers,Difference,True
+S9,Burgers,Cohen_dz,True
+S9,Burgers,Minimum_data_supported_margin,True
+S9,Burgers,NI_p,True
+S9,Burgers,Endpoint_Holm_p,True
+S9,Burgers,All_70_Holm_p,True
+S9,"('Burgers', 'Similarity')",CI90_lower,True
+S9,"('Burgers', 'Similarity')",CI90_upper,True
+S9,Burgers,n,True
+S9,Burgers,Difference,True
+S9,Burgers,Cohen_dz,True
+S9,Burgers,Minimum_data_supported_margin,True
+S9,Burgers,NI_p,True
+S9,Burgers,Endpoint_Holm_p,True
+S9,Burgers,All_70_Holm_p,True
+S9,"('Hot Dogs', 'Overall Liking')",CI90_lower,True
+S9,"('Hot Dogs', 'Overall Liking')",CI90_upper,True
+S9,Hot Dogs,n,True
+S9,Hot Dogs,Difference,True
+S9,Hot Dogs,Cohen_dz,True
+S9,Hot Dogs,Minimum_data_supported_margin,True
+S9,Hot Dogs,NI_p,True
+S9,Hot Dogs,Endpoint_Holm_p,True
+S9,Hot Dogs,All_70_Holm_p,True
+S9,"('Hot Dogs', 'Flavor')",CI90_lower,True
+S9,"('Hot Dogs', 'Flavor')",CI90_upper,True
+S9,Hot Dogs,n,True
+S9,Hot Dogs,Difference,True
+S9,Hot Dogs,Cohen_dz,True
+S9,Hot Dogs,Minimum_data_supported_margin,True
+S9,Hot Dogs,NI_p,True
+S9,Hot Dogs,Endpoint_Holm_p,True
+S9,Hot Dogs,All_70_Holm_p,True
+S9,"('Hot Dogs', 'Texture')",CI90_lower,True
+S9,"('Hot Dogs', 'Texture')",CI90_upper,True
+S9,Hot Dogs,n,True
+S9,Hot Dogs,Difference,True
+S9,Hot Dogs,Cohen_dz,True
+S9,Hot Dogs,Minimum_data_supported_margin,True
+S9,Hot Dogs,NI_p,True
+S9,Hot Dogs,Endpoint_Holm_p,True
+S9,Hot Dogs,All_70_Holm_p,True
+S9,"('Hot Dogs', 'Appearance')",CI90_lower,True
+S9,"('Hot Dogs', 'Appearance')",CI90_upper,True
+S9,Hot Dogs,n,True
+S9,Hot Dogs,Difference,True
+S9,Hot Dogs,Cohen_dz,True
+S9,Hot Dogs,Minimum_data_supported_margin,True
+S9,Hot Dogs,NI_p,True
+S9,Hot Dogs,Endpoint_Holm_p,True
+S9,Hot Dogs,All_70_Holm_p,True
+S9,"('Hot Dogs', 'Similarity')",CI90_lower,True
+S9,"('Hot Dogs', 'Similarity')",CI90_upper,True
+S9,Hot Dogs,n,True
+S9,Hot Dogs,Difference,True
+S9,Hot Dogs,Cohen_dz,True
+S9,Hot Dogs,Minimum_data_supported_margin,True
+S9,Hot Dogs,NI_p,True
+S9,Hot Dogs,Endpoint_Holm_p,True
+S9,Hot Dogs,All_70_Holm_p,True
+S9,"('Meatballs', 'Overall Liking')",CI90_lower,True
+S9,"('Meatballs', 'Overall Liking')",CI90_upper,True
+S9,Meatballs,n,True
+S9,Meatballs,Difference,True
+S9,Meatballs,Cohen_dz,True
+S9,Meatballs,Minimum_data_supported_margin,True
+S9,Meatballs,NI_p,True
+S9,Meatballs,Endpoint_Holm_p,True
+S9,Meatballs,All_70_Holm_p,True
+S9,"('Meatballs', 'Flavor')",CI90_lower,True
+S9,"('Meatballs', 'Flavor')",CI90_upper,True
+S9,Meatballs,n,True
+S9,Meatballs,Difference,True
+S9,Meatballs,Cohen_dz,True
+S9,Meatballs,Minimum_data_supported_margin,True
+S9,Meatballs,NI_p,True
+S9,Meatballs,Endpoint_Holm_p,True
+S9,Meatballs,All_70_Holm_p,True
+S9,"('Meatballs', 'Texture')",CI90_lower,True
+S9,"('Meatballs', 'Texture')",CI90_upper,True
+S9,Meatballs,n,True
+S9,Meatballs,Difference,True
+S9,Meatballs,Cohen_dz,True
+S9,Meatballs,Minimum_data_supported_margin,True
+S9,Meatballs,NI_p,True
+S9,Meatballs,Endpoint_Holm_p,True
+S9,Meatballs,All_70_Holm_p,True
+S9,"('Meatballs', 'Appearance')",CI90_lower,True
+S9,"('Meatballs', 'Appearance')",CI90_upper,True
+S9,Meatballs,n,True
+S9,Meatballs,Difference,True
+S9,Meatballs,Cohen_dz,True
+S9,Meatballs,Minimum_data_supported_margin,True
+S9,Meatballs,NI_p,True
+S9,Meatballs,Endpoint_Holm_p,True
+S9,Meatballs,All_70_Holm_p,True
+S9,"('Meatballs', 'Similarity')",CI90_lower,True
+S9,"('Meatballs', 'Similarity')",CI90_upper,True
+S9,Meatballs,n,True
+S9,Meatballs,Difference,True
+S9,Meatballs,Cohen_dz,True
+S9,Meatballs,Minimum_data_supported_margin,True
+S9,Meatballs,NI_p,True
+S9,Meatballs,Endpoint_Holm_p,True
+S9,Meatballs,All_70_Holm_p,True
+S9,"('Deli Turkey', 'Overall Liking')",CI90_lower,True
+S9,"('Deli Turkey', 'Overall Liking')",CI90_upper,True
+S9,Deli Turkey,n,True
+S9,Deli Turkey,Difference,True
+S9,Deli Turkey,Cohen_dz,True
+S9,Deli Turkey,Minimum_data_supported_margin,True
+S9,Deli Turkey,NI_p,True
+S9,Deli Turkey,Endpoint_Holm_p,True
+S9,Deli Turkey,All_70_Holm_p,True
+S9,"('Deli Turkey', 'Flavor')",CI90_lower,True
+S9,"('Deli Turkey', 'Flavor')",CI90_upper,True
+S9,Deli Turkey,n,True
+S9,Deli Turkey,Difference,True
+S9,Deli Turkey,Cohen_dz,True
+S9,Deli Turkey,Minimum_data_supported_margin,True
+S9,Deli Turkey,NI_p,True
+S9,Deli Turkey,Endpoint_Holm_p,True
+S9,Deli Turkey,All_70_Holm_p,True
+S9,"('Deli Turkey', 'Texture')",CI90_lower,True
+S9,"('Deli Turkey', 'Texture')",CI90_upper,True
+S9,Deli Turkey,n,True
+S9,Deli Turkey,Difference,True
+S9,Deli Turkey,Cohen_dz,True
+S9,Deli Turkey,Minimum_data_supported_margin,True
+S9,Deli Turkey,NI_p,True
+S9,Deli Turkey,Endpoint_Holm_p,True
+S9,Deli Turkey,All_70_Holm_p,True
+S9,"('Deli Turkey', 'Appearance')",CI90_lower,True
+S9,"('Deli Turkey', 'Appearance')",CI90_upper,True
+S9,Deli Turkey,n,True
+S9,Deli Turkey,Difference,True
+S9,Deli Turkey,Cohen_dz,True
+S9,Deli Turkey,Minimum_data_supported_margin,True
+S9,Deli Turkey,NI_p,True
+S9,Deli Turkey,Endpoint_Holm_p,True
+S9,Deli Turkey,All_70_Holm_p,True
+S9,"('Deli Turkey', 'Similarity')",CI90_lower,True
+S9,"('Deli Turkey', 'Similarity')",CI90_upper,True
+S9,Deli Turkey,n,True
+S9,Deli Turkey,Difference,True
+S9,Deli Turkey,Cohen_dz,True
+S9,Deli Turkey,Minimum_data_supported_margin,True
+S9,Deli Turkey,NI_p,True
+S9,Deli Turkey,Endpoint_Holm_p,True
+S9,Deli Turkey,All_70_Holm_p,True
+S9,"('Breaded Chicken Filets', 'Overall Liking')",CI90_lower,True
+S9,"('Breaded Chicken Filets', 'Overall Liking')",CI90_upper,True
+S9,Breaded Chicken Filets,n,True
+S9,Breaded Chicken Filets,Difference,True
+S9,Breaded Chicken Filets,Cohen_dz,True
+S9,Breaded Chicken Filets,Minimum_data_supported_margin,True
+S9,Breaded Chicken Filets,NI_p,True
+S9,Breaded Chicken Filets,Endpoint_Holm_p,True
+S9,Breaded Chicken Filets,All_70_Holm_p,True
+S9,"('Breaded Chicken Filets', 'Flavor')",CI90_lower,True
+S9,"('Breaded Chicken Filets', 'Flavor')",CI90_upper,True
+S9,Breaded Chicken Filets,n,True
+S9,Breaded Chicken Filets,Difference,True
+S9,Breaded Chicken Filets,Cohen_dz,True
+S9,Breaded Chicken Filets,Minimum_data_supported_margin,True
+S9,Breaded Chicken Filets,NI_p,True
+S9,Breaded Chicken Filets,Endpoint_Holm_p,True
+S9,Breaded Chicken Filets,All_70_Holm_p,True
+S9,"('Breaded Chicken Filets', 'Texture')",CI90_lower,True
+S9,"('Breaded Chicken Filets', 'Texture')",CI90_upper,True
+S9,Breaded Chicken Filets,n,True
+S9,Breaded Chicken Filets,Difference,True
+S9,Breaded Chicken Filets,Cohen_dz,True
+S9,Breaded Chicken Filets,Minimum_data_supported_margin,True
+S9,Breaded Chicken Filets,NI_p,True
+S9,Breaded Chicken Filets,Endpoint_Holm_p,True
+S9,Breaded Chicken Filets,All_70_Holm_p,True
+S9,"('Breaded Chicken Filets', 'Appearance')",CI90_lower,True
+S9,"('Breaded Chicken Filets', 'Appearance')",CI90_upper,True
+S9,Breaded Chicken Filets,n,True
+S9,Breaded Chicken Filets,Difference,True
+S9,Breaded Chicken Filets,Cohen_dz,True
+S9,Breaded Chicken Filets,Minimum_data_supported_margin,True
+S9,Breaded Chicken Filets,NI_p,True
+S9,Breaded Chicken Filets,Endpoint_Holm_p,True
+S9,Breaded Chicken Filets,All_70_Holm_p,True
+S9,"('Breaded Chicken Filets', 'Similarity')",CI90_lower,True
+S9,"('Breaded Chicken Filets', 'Similarity')",CI90_upper,True
+S9,Breaded Chicken Filets,n,True
+S9,Breaded Chicken Filets,Difference,True
+S9,Breaded Chicken Filets,Cohen_dz,True
+S9,Breaded Chicken Filets,Minimum_data_supported_margin,True
+S9,Breaded Chicken Filets,NI_p,True
+S9,Breaded Chicken Filets,Endpoint_Holm_p,True
+S9,Breaded Chicken Filets,All_70_Holm_p,True
+S9,"('Pulled Pork', 'Overall Liking')",CI90_lower,True
+S9,"('Pulled Pork', 'Overall Liking')",CI90_upper,True
+S9,Pulled Pork,n,True
+S9,Pulled Pork,Difference,True
+S9,Pulled Pork,Cohen_dz,True
+S9,Pulled Pork,Minimum_data_supported_margin,True
+S9,Pulled Pork,NI_p,True
+S9,Pulled Pork,Endpoint_Holm_p,True
+S9,Pulled Pork,All_70_Holm_p,True
+S9,"('Pulled Pork', 'Flavor')",CI90_lower,True
+S9,"('Pulled Pork', 'Flavor')",CI90_upper,True
+S9,Pulled Pork,n,True
+S9,Pulled Pork,Difference,True
+S9,Pulled Pork,Cohen_dz,True
+S9,Pulled Pork,Minimum_data_supported_margin,True
+S9,Pulled Pork,NI_p,True
+S9,Pulled Pork,Endpoint_Holm_p,True
+S9,Pulled Pork,All_70_Holm_p,True
+S9,"('Pulled Pork', 'Texture')",CI90_lower,True
+S9,"('Pulled Pork', 'Texture')",CI90_upper,True
+S9,Pulled Pork,n,True
+S9,Pulled Pork,Difference,True
+S9,Pulled Pork,Cohen_dz,True
+S9,Pulled Pork,Minimum_data_supported_margin,True
+S9,Pulled Pork,NI_p,True
+S9,Pulled Pork,Endpoint_Holm_p,True
+S9,Pulled Pork,All_70_Holm_p,True
+S9,"('Pulled Pork', 'Appearance')",CI90_lower,True
+S9,"('Pulled Pork', 'Appearance')",CI90_upper,True
+S9,Pulled Pork,n,True
+S9,Pulled Pork,Difference,True
+S9,Pulled Pork,Cohen_dz,True
+S9,Pulled Pork,Minimum_data_supported_margin,True
+S9,Pulled Pork,NI_p,True
+S9,Pulled Pork,Endpoint_Holm_p,True
+S9,Pulled Pork,All_70_Holm_p,True
+S9,"('Pulled Pork', 'Similarity')",CI90_lower,True
+S9,"('Pulled Pork', 'Similarity')",CI90_upper,True
+S9,Pulled Pork,n,True
+S9,Pulled Pork,Difference,True
+S9,Pulled Pork,Cohen_dz,True
+S9,Pulled Pork,Minimum_data_supported_margin,True
+S9,Pulled Pork,NI_p,True
+S9,Pulled Pork,Endpoint_Holm_p,True
+S9,Pulled Pork,All_70_Holm_p,True
+S9,"('Breakfast Sausages', 'Overall Liking')",CI90_lower,True
+S9,"('Breakfast Sausages', 'Overall Liking')",CI90_upper,True
+S9,Breakfast Sausages,n,True
+S9,Breakfast Sausages,Difference,True
+S9,Breakfast Sausages,Cohen_dz,True
+S9,Breakfast Sausages,Minimum_data_supported_margin,True
+S9,Breakfast Sausages,NI_p,True
+S9,Breakfast Sausages,Endpoint_Holm_p,True
+S9,Breakfast Sausages,All_70_Holm_p,True
+S9,"('Breakfast Sausages', 'Flavor')",CI90_lower,True
+S9,"('Breakfast Sausages', 'Flavor')",CI90_upper,True
+S9,Breakfast Sausages,n,True
+S9,Breakfast Sausages,Difference,True
+S9,Breakfast Sausages,Cohen_dz,True
+S9,Breakfast Sausages,Minimum_data_supported_margin,True
+S9,Breakfast Sausages,NI_p,True
+S9,Breakfast Sausages,Endpoint_Holm_p,True
+S9,Breakfast Sausages,All_70_Holm_p,True
+S9,"('Breakfast Sausages', 'Texture')",CI90_lower,True
+S9,"('Breakfast Sausages', 'Texture')",CI90_upper,True
+S9,Breakfast Sausages,n,True
+S9,Breakfast Sausages,Difference,True
+S9,Breakfast Sausages,Cohen_dz,True
+S9,Breakfast Sausages,Minimum_data_supported_margin,True
+S9,Breakfast Sausages,NI_p,True
+S9,Breakfast Sausages,Endpoint_Holm_p,True
+S9,Breakfast Sausages,All_70_Holm_p,True
+S9,"('Breakfast Sausages', 'Appearance')",CI90_lower,True
+S9,"('Breakfast Sausages', 'Appearance')",CI90_upper,True
+S9,Breakfast Sausages,n,True
+S9,Breakfast Sausages,Difference,True
+S9,Breakfast Sausages,Cohen_dz,True
+S9,Breakfast Sausages,Minimum_data_supported_margin,True
+S9,Breakfast Sausages,NI_p,True
+S9,Breakfast Sausages,Endpoint_Holm_p,True
+S9,Breakfast Sausages,All_70_Holm_p,True
+S9,"('Breakfast Sausages', 'Similarity')",CI90_lower,True
+S9,"('Breakfast Sausages', 'Similarity')",CI90_upper,True
+S9,Breakfast Sausages,n,True
+S9,Breakfast Sausages,Difference,True
+S9,Breakfast Sausages,Cohen_dz,True
+S9,Breakfast Sausages,Minimum_data_supported_margin,True
+S9,Breakfast Sausages,NI_p,True
+S9,Breakfast Sausages,Endpoint_Holm_p,True
+S9,Breakfast Sausages,All_70_Holm_p,True
+S9,"('Deli Ham', 'Overall Liking')",CI90_lower,True
+S9,"('Deli Ham', 'Overall Liking')",CI90_upper,True
+S9,Deli Ham,n,True
+S9,Deli Ham,Difference,True
+S9,Deli Ham,Cohen_dz,True
+S9,Deli Ham,Minimum_data_supported_margin,True
+S9,Deli Ham,NI_p,True
+S9,Deli Ham,Endpoint_Holm_p,True
+S9,Deli Ham,All_70_Holm_p,True
+S9,"('Deli Ham', 'Flavor')",CI90_lower,True
+S9,"('Deli Ham', 'Flavor')",CI90_upper,True
+S9,Deli Ham,n,True
+S9,Deli Ham,Difference,True
+S9,Deli Ham,Cohen_dz,True
+S9,Deli Ham,Minimum_data_supported_margin,True
+S9,Deli Ham,NI_p,True
+S9,Deli Ham,Endpoint_Holm_p,True
+S9,Deli Ham,All_70_Holm_p,True
+S9,"('Deli Ham', 'Texture')",CI90_lower,True
+S9,"('Deli Ham', 'Texture')",CI90_upper,True
+S9,Deli Ham,n,True
+S9,Deli Ham,Difference,True
+S9,Deli Ham,Cohen_dz,True
+S9,Deli Ham,Minimum_data_supported_margin,True
+S9,Deli Ham,NI_p,True
+S9,Deli Ham,Endpoint_Holm_p,True
+S9,Deli Ham,All_70_Holm_p,True
+S9,"('Deli Ham', 'Appearance')",CI90_lower,True
+S9,"('Deli Ham', 'Appearance')",CI90_upper,True
+S9,Deli Ham,n,True
+S9,Deli Ham,Difference,True
+S9,Deli Ham,Cohen_dz,True
+S9,Deli Ham,Minimum_data_supported_margin,True
+S9,Deli Ham,NI_p,True
+S9,Deli Ham,Endpoint_Holm_p,True
+S9,Deli Ham,All_70_Holm_p,True
+S9,"('Deli Ham', 'Similarity')",CI90_lower,True
+S9,"('Deli Ham', 'Similarity')",CI90_upper,True
+S9,Deli Ham,n,True
+S9,Deli Ham,Difference,True
+S9,Deli Ham,Cohen_dz,True
+S9,Deli Ham,Minimum_data_supported_margin,True
+S9,Deli Ham,NI_p,True
+S9,Deli Ham,Endpoint_Holm_p,True
+S9,Deli Ham,All_70_Holm_p,True
+S9,"('Bratwurst', 'Overall Liking')",CI90_lower,True
+S9,"('Bratwurst', 'Overall Liking')",CI90_upper,True
+S9,Bratwurst,n,True
+S9,Bratwurst,Difference,True
+S9,Bratwurst,Cohen_dz,True
+S9,Bratwurst,Minimum_data_supported_margin,True
+S9,Bratwurst,NI_p,True
+S9,Bratwurst,Endpoint_Holm_p,True
+S9,Bratwurst,All_70_Holm_p,True
+S9,"('Bratwurst', 'Flavor')",CI90_lower,True
+S9,"('Bratwurst', 'Flavor')",CI90_upper,True
+S9,Bratwurst,n,True
+S9,Bratwurst,Difference,True
+S9,Bratwurst,Cohen_dz,True
+S9,Bratwurst,Minimum_data_supported_margin,True
+S9,Bratwurst,NI_p,True
+S9,Bratwurst,Endpoint_Holm_p,True
+S9,Bratwurst,All_70_Holm_p,True
+S9,"('Bratwurst', 'Texture')",CI90_lower,True
+S9,"('Bratwurst', 'Texture')",CI90_upper,True
+S9,Bratwurst,n,True
+S9,Bratwurst,Difference,True
+S9,Bratwurst,Cohen_dz,True
+S9,Bratwurst,Minimum_data_supported_margin,True
+S9,Bratwurst,NI_p,True
+S9,Bratwurst,Endpoint_Holm_p,True
+S9,Bratwurst,All_70_Holm_p,True
+S9,"('Bratwurst', 'Appearance')",CI90_lower,True
+S9,"('Bratwurst', 'Appearance')",CI90_upper,True
+S9,Bratwurst,n,True
+S9,Bratwurst,Difference,True
+S9,Bratwurst,Cohen_dz,True
+S9,Bratwurst,Minimum_data_supported_margin,True
+S9,Bratwurst,NI_p,True
+S9,Bratwurst,Endpoint_Holm_p,True
+S9,Bratwurst,All_70_Holm_p,True
+S9,"('Bratwurst', 'Similarity')",CI90_lower,True
+S9,"('Bratwurst', 'Similarity')",CI90_upper,True
+S9,Bratwurst,n,True
+S9,Bratwurst,Difference,True
+S9,Bratwurst,Cohen_dz,True
+S9,Bratwurst,Minimum_data_supported_margin,True
+S9,Bratwurst,NI_p,True
+S9,Bratwurst,Endpoint_Holm_p,True
+S9,Bratwurst,All_70_Holm_p,True
+S9,"('Unbreaded Chicken Strips and Chunks', 'Overall Liking')",CI90_lower,True
+S9,"('Unbreaded Chicken Strips and Chunks', 'Overall Liking')",CI90_upper,True
+S9,Unbreaded Chicken Strips and Chunks,n,True
+S9,Unbreaded Chicken Strips and Chunks,Difference,True
+S9,Unbreaded Chicken Strips and Chunks,Cohen_dz,True
+S9,Unbreaded Chicken Strips and Chunks,Minimum_data_supported_margin,True
+S9,Unbreaded Chicken Strips and Chunks,NI_p,True
+S9,Unbreaded Chicken Strips and Chunks,Endpoint_Holm_p,True
+S9,Unbreaded Chicken Strips and Chunks,All_70_Holm_p,True
+S9,"('Unbreaded Chicken Strips and Chunks', 'Flavor')",CI90_lower,True
+S9,"('Unbreaded Chicken Strips and Chunks', 'Flavor')",CI90_upper,True
+S9,Unbreaded Chicken Strips and Chunks,n,True
+S9,Unbreaded Chicken Strips and Chunks,Difference,True
+S9,Unbreaded Chicken Strips and Chunks,Cohen_dz,True
+S9,Unbreaded Chicken Strips and Chunks,Minimum_data_supported_margin,True
+S9,Unbreaded Chicken Strips and Chunks,NI_p,True
+S9,Unbreaded Chicken Strips and Chunks,Endpoint_Holm_p,True
+S9,Unbreaded Chicken Strips and Chunks,All_70_Holm_p,True
+S9,"('Unbreaded Chicken Strips and Chunks', 'Texture')",CI90_lower,True
+S9,"('Unbreaded Chicken Strips and Chunks', 'Texture')",CI90_upper,True
+S9,Unbreaded Chicken Strips and Chunks,n,True
+S9,Unbreaded Chicken Strips and Chunks,Difference,True
+S9,Unbreaded Chicken Strips and Chunks,Cohen_dz,True
+S9,Unbreaded Chicken Strips and Chunks,Minimum_data_supported_margin,True
+S9,Unbreaded Chicken Strips and Chunks,NI_p,True
+S9,Unbreaded Chicken Strips and Chunks,Endpoint_Holm_p,True
+S9,Unbreaded Chicken Strips and Chunks,All_70_Holm_p,True
+S9,"('Unbreaded Chicken Strips and Chunks', 'Appearance')",CI90_lower,True
+S9,"('Unbreaded Chicken Strips and Chunks', 'Appearance')",CI90_upper,True
+S9,Unbreaded Chicken Strips and Chunks,n,True
+S9,Unbreaded Chicken Strips and Chunks,Difference,True
+S9,Unbreaded Chicken Strips and Chunks,Cohen_dz,True
+S9,Unbreaded Chicken Strips and Chunks,Minimum_data_supported_margin,True
+S9,Unbreaded Chicken Strips and Chunks,NI_p,True
+S9,Unbreaded Chicken Strips and Chunks,Endpoint_Holm_p,True
+S9,Unbreaded Chicken Strips and Chunks,All_70_Holm_p,True
+S9,"('Unbreaded Chicken Strips and Chunks', 'Similarity')",CI90_lower,True
+S9,"('Unbreaded Chicken Strips and Chunks', 'Similarity')",CI90_upper,True
+S9,Unbreaded Chicken Strips and Chunks,n,True
+S9,Unbreaded Chicken Strips and Chunks,Difference,True
+S9,Unbreaded Chicken Strips and Chunks,Cohen_dz,True
+S9,Unbreaded Chicken Strips and Chunks,Minimum_data_supported_margin,True
+S9,Unbreaded Chicken Strips and Chunks,NI_p,True
+S9,Unbreaded Chicken Strips and Chunks,Endpoint_Holm_p,True
+S9,Unbreaded Chicken Strips and Chunks,All_70_Holm_p,True
+S9,"('Steak', 'Overall Liking')",CI90_lower,True
+S9,"('Steak', 'Overall Liking')",CI90_upper,True
+S9,Steak,n,True
+S9,Steak,Difference,True
+S9,Steak,Cohen_dz,True
+S9,Steak,Minimum_data_supported_margin,True
+S9,Steak,NI_p,True
+S9,Steak,Endpoint_Holm_p,True
+S9,Steak,All_70_Holm_p,True
+S9,"('Steak', 'Flavor')",CI90_lower,True
+S9,"('Steak', 'Flavor')",CI90_upper,True
+S9,Steak,n,True
+S9,Steak,Difference,True
+S9,Steak,Cohen_dz,True
+S9,Steak,Minimum_data_supported_margin,True
+S9,Steak,NI_p,True
+S9,Steak,Endpoint_Holm_p,True
+S9,Steak,All_70_Holm_p,True
+S9,"('Steak', 'Texture')",CI90_lower,True
+S9,"('Steak', 'Texture')",CI90_upper,True
+S9,Steak,n,True
+S9,Steak,Difference,True
+S9,Steak,Cohen_dz,True
+S9,Steak,Minimum_data_supported_margin,True
+S9,Steak,NI_p,True
+S9,Steak,Endpoint_Holm_p,True
+S9,Steak,All_70_Holm_p,True
+S9,"('Steak', 'Appearance')",CI90_lower,True
+S9,"('Steak', 'Appearance')",CI90_upper,True
+S9,Steak,n,True
+S9,Steak,Difference,True
+S9,Steak,Cohen_dz,True
+S9,Steak,Minimum_data_supported_margin,True
+S9,Steak,NI_p,True
+S9,Steak,Endpoint_Holm_p,True
+S9,Steak,All_70_Holm_p,True
+S9,"('Steak', 'Similarity')",CI90_lower,True
+S9,"('Steak', 'Similarity')",CI90_upper,True
+S9,Steak,n,True
+S9,Steak,Difference,True
+S9,Steak,Cohen_dz,True
+S9,Steak,Minimum_data_supported_margin,True
+S9,Steak,NI_p,True
+S9,Steak,Endpoint_Holm_p,True
+S9,Steak,All_70_Holm_p,True
+S9,"('Bacon', 'Overall Liking')",CI90_lower,True
+S9,"('Bacon', 'Overall Liking')",CI90_upper,True
+S9,Bacon,n,True
+S9,Bacon,Difference,True
+S9,Bacon,Cohen_dz,True
+S9,Bacon,Minimum_data_supported_margin,True
+S9,Bacon,NI_p,True
+S9,Bacon,Endpoint_Holm_p,True
+S9,Bacon,All_70_Holm_p,True
+S9,"('Bacon', 'Flavor')",CI90_lower,True
+S9,"('Bacon', 'Flavor')",CI90_upper,True
+S9,Bacon,n,True
+S9,Bacon,Difference,True
+S9,Bacon,Cohen_dz,True
+S9,Bacon,Minimum_data_supported_margin,True
+S9,Bacon,NI_p,True
+S9,Bacon,Endpoint_Holm_p,True
+S9,Bacon,All_70_Holm_p,True
+S9,"('Bacon', 'Texture')",CI90_lower,True
+S9,"('Bacon', 'Texture')",CI90_upper,True
+S9,Bacon,n,True
+S9,Bacon,Difference,True
+S9,Bacon,Cohen_dz,True
+S9,Bacon,Minimum_data_supported_margin,True
+S9,Bacon,NI_p,True
+S9,Bacon,Endpoint_Holm_p,True
+S9,Bacon,All_70_Holm_p,True
+S9,"('Bacon', 'Appearance')",CI90_lower,True
+S9,"('Bacon', 'Appearance')",CI90_upper,True
+S9,Bacon,n,True
+S9,Bacon,Difference,True
+S9,Bacon,Cohen_dz,True
+S9,Bacon,Minimum_data_supported_margin,True
+S9,Bacon,NI_p,True
+S9,Bacon,Endpoint_Holm_p,True
+S9,Bacon,All_70_Holm_p,True
+S9,"('Bacon', 'Similarity')",CI90_lower,True
+S9,"('Bacon', 'Similarity')",CI90_upper,True
+S9,Bacon,n,True
+S9,Bacon,Difference,True
+S9,Bacon,Cohen_dz,True
+S9,Bacon,Minimum_data_supported_margin,True
+S9,Bacon,NI_p,True
+S9,Bacon,Endpoint_Holm_p,True
+S9,Bacon,All_70_Holm_p,True
+S10,Bacon,Candidates,True
+S10,Bacon,Displayed_code,True
+S10,Bacon,Difference,True
+S10,Bacon,Raw_p,True
+S10,Bacon,Within_category_Holm_p,True
+S10,Bratwurst,Candidates,True
+S10,Bratwurst,Displayed_code,True
+S10,Bratwurst,Difference,True
+S10,Bratwurst,Raw_p,True
+S10,Bratwurst,Within_category_Holm_p,True
+S10,Breaded Chicken Filets,Candidates,True
+S10,Breaded Chicken Filets,Displayed_code,True
+S10,Breaded Chicken Filets,Difference,True
+S10,Breaded Chicken Filets,Raw_p,True
+S10,Breaded Chicken Filets,Within_category_Holm_p,True
+S10,Breakfast Sausages,Candidates,True
+S10,Breakfast Sausages,Displayed_code,True
+S10,Breakfast Sausages,Difference,True
+S10,Breakfast Sausages,Raw_p,True
+S10,Breakfast Sausages,Within_category_Holm_p,True
+S10,Burgers,Candidates,True
+S10,Burgers,Displayed_code,True
+S10,Burgers,Difference,True
+S10,Burgers,Raw_p,True
+S10,Burgers,Within_category_Holm_p,True
+S10,Chicken Nuggets,Candidates,True
+S10,Chicken Nuggets,Displayed_code,True
+S10,Chicken Nuggets,Difference,True
+S10,Chicken Nuggets,Raw_p,True
+S10,Chicken Nuggets,Within_category_Holm_p,True
+S10,Deli Ham,Candidates,True
+S10,Deli Ham,Displayed_code,True
+S10,Deli Ham,Difference,True
+S10,Deli Ham,Raw_p,True
+S10,Deli Ham,Within_category_Holm_p,True
+S10,Deli Turkey,Candidates,True
+S10,Deli Turkey,Displayed_code,True
+S10,Deli Turkey,Difference,True
+S10,Deli Turkey,Raw_p,True
+S10,Deli Turkey,Within_category_Holm_p,True
+S10,Hot Dogs,Candidates,True
+S10,Hot Dogs,Displayed_code,True
+S10,Hot Dogs,Difference,True
+S10,Hot Dogs,Raw_p,True
+S10,Hot Dogs,Within_category_Holm_p,True
+S10,Meatballs,Candidates,True
+S10,Meatballs,Displayed_code,True
+S10,Meatballs,Difference,True
+S10,Meatballs,Raw_p,True
+S10,Meatballs,Within_category_Holm_p,True
+S10,Pulled Pork,Candidates,True
+S10,Pulled Pork,Displayed_code,True
+S10,Pulled Pork,Difference,True
+S10,Pulled Pork,Raw_p,True
+S10,Pulled Pork,Within_category_Holm_p,True
+S10,Steak,Candidates,True
+S10,Steak,Displayed_code,True
+S10,Steak,Difference,True
+S10,Steak,Raw_p,True
+S10,Steak,Within_category_Holm_p,True
+S10,Unbreaded Chicken Filets,Candidates,True
+S10,Unbreaded Chicken Filets,Displayed_code,True
+S10,Unbreaded Chicken Filets,Difference,True
+S10,Unbreaded Chicken Filets,Raw_p,True
+S10,Unbreaded Chicken Filets,Within_category_Holm_p,True
+S10,Unbreaded Chicken Strips and Chunks,Candidates,True
+S10,Unbreaded Chicken Strips and Chunks,Displayed_code,True
+S10,Unbreaded Chicken Strips and Chunks,Difference,True
+S10,Unbreaded Chicken Strips and Chunks,Raw_p,True
+S10,Unbreaded Chicken Strips and Chunks,Within_category_Holm_p,True
+S11,Unbreaded Chicken Filets,Source_code,True
+S11,Unbreaded Chicken Filets,Source_minimum_margin,True
+S11,Unbreaded Chicken Filets,Best_minimum_margin,True
+S11,Unbreaded Chicken Filets,Crossfit_median_minimum_margin,True
+S11,Unbreaded Chicken Filets,Partitions_meeting_nominal_NI_percent,True
+S11,Unbreaded Chicken Filets,Evaluation_coverage_percent,True
+S11,Chicken Nuggets,Source_code,True
+S11,Chicken Nuggets,Source_minimum_margin,True
+S11,Chicken Nuggets,Best_minimum_margin,True
+S11,Chicken Nuggets,Crossfit_median_minimum_margin,True
+S11,Chicken Nuggets,Partitions_meeting_nominal_NI_percent,True
+S11,Chicken Nuggets,Evaluation_coverage_percent,True
+S11,Burgers,Source_code,True
+S11,Burgers,Source_minimum_margin,True
+S11,Burgers,Best_minimum_margin,True
+S11,Burgers,Crossfit_median_minimum_margin,True
+S11,Burgers,Partitions_meeting_nominal_NI_percent,True
+S11,Burgers,Evaluation_coverage_percent,True
+S11,Hot Dogs,Source_code,True
+S11,Hot Dogs,Source_minimum_margin,True
+S11,Hot Dogs,Best_minimum_margin,True
+S11,Hot Dogs,Crossfit_median_minimum_margin,True
+S11,Hot Dogs,Partitions_meeting_nominal_NI_percent,True
+S11,Hot Dogs,Evaluation_coverage_percent,True
+S11,Meatballs,Source_code,True
+S11,Meatballs,Source_minimum_margin,True
+S11,Meatballs,Best_minimum_margin,True
+S11,Meatballs,Crossfit_median_minimum_margin,True
+S11,Meatballs,Partitions_meeting_nominal_NI_percent,True
+S11,Meatballs,Evaluation_coverage_percent,True
+S11,Deli Turkey,Source_code,True
+S11,Deli Turkey,Source_minimum_margin,True
+S11,Deli Turkey,Best_minimum_margin,True
+S11,Deli Turkey,Crossfit_median_minimum_margin,True
+S11,Deli Turkey,Partitions_meeting_nominal_NI_percent,True
+S11,Deli Turkey,Evaluation_coverage_percent,True
+S11,Breaded Chicken Filets,Source_code,True
+S11,Breaded Chicken Filets,Source_minimum_margin,True
+S11,Breaded Chicken Filets,Best_minimum_margin,True
+S11,Breaded Chicken Filets,Crossfit_median_minimum_margin,True
+S11,Breaded Chicken Filets,Partitions_meeting_nominal_NI_percent,True
+S11,Breaded Chicken Filets,Evaluation_coverage_percent,True
+S11,Pulled Pork,Source_code,True
+S11,Pulled Pork,Source_minimum_margin,True
+S11,Pulled Pork,Best_minimum_margin,True
+S11,Pulled Pork,Crossfit_median_minimum_margin,True
+S11,Pulled Pork,Partitions_meeting_nominal_NI_percent,True
+S11,Pulled Pork,Evaluation_coverage_percent,True
+S11,Breakfast Sausages,Source_code,True
+S11,Breakfast Sausages,Source_minimum_margin,True
+S11,Breakfast Sausages,Best_minimum_margin,True
+S11,Breakfast Sausages,Crossfit_median_minimum_margin,True
+S11,Breakfast Sausages,Partitions_meeting_nominal_NI_percent,True
+S11,Breakfast Sausages,Evaluation_coverage_percent,True
+S11,Deli Ham,Source_code,True
+S11,Deli Ham,Source_minimum_margin,True
+S11,Deli Ham,Best_minimum_margin,True
+S11,Deli Ham,Crossfit_median_minimum_margin,True
+S11,Deli Ham,Partitions_meeting_nominal_NI_percent,True
+S11,Deli Ham,Evaluation_coverage_percent,True
+S11,Bratwurst,Source_code,True
+S11,Bratwurst,Source_minimum_margin,True
+S11,Bratwurst,Best_minimum_margin,True
+S11,Bratwurst,Crossfit_median_minimum_margin,True
+S11,Bratwurst,Partitions_meeting_nominal_NI_percent,True
+S11,Bratwurst,Evaluation_coverage_percent,True
+S11,Unbreaded Chicken Strips and Chunks,Source_code,True
+S11,Unbreaded Chicken Strips and Chunks,Source_minimum_margin,True
+S11,Unbreaded Chicken Strips and Chunks,Best_minimum_margin,True
+S11,Unbreaded Chicken Strips and Chunks,Crossfit_median_minimum_margin,True
+S11,Unbreaded Chicken Strips and Chunks,Partitions_meeting_nominal_NI_percent,True
+S11,Unbreaded Chicken Strips and Chunks,Evaluation_coverage_percent,True
+S11,Steak,Source_code,True
+S11,Steak,Source_minimum_margin,True
+S11,Steak,Best_minimum_margin,True
+S11,Steak,Crossfit_median_minimum_margin,True
+S11,Steak,Partitions_meeting_nominal_NI_percent,True
+S11,Steak,Evaluation_coverage_percent,True
+S11,Bacon,Source_code,True
+S11,Bacon,Source_minimum_margin,True
+S11,Bacon,Best_minimum_margin,True
+S11,Bacon,Crossfit_median_minimum_margin,True
+S11,Bacon,Partitions_meeting_nominal_NI_percent,True
+S11,Bacon,Evaluation_coverage_percent,True
+S12,Bacon,Selected_folds,True
+S12,Bacon,Successful_folds,True
+S12,Bacon,Share_percent,True
+S12,Bacon,Selected_folds,True
+S12,Bacon,Successful_folds,True
+S12,Bacon,Share_percent,True
+S12,Bacon,Selected_folds,True
+S12,Bacon,Successful_folds,True
+S12,Bacon,Share_percent,True
+S12,Bratwurst,Selected_folds,True
+S12,Bratwurst,Successful_folds,True
+S12,Bratwurst,Share_percent,True
+S12,Breaded Chicken Filets,Selected_folds,True
+S12,Breaded Chicken Filets,Successful_folds,True
+S12,Breaded Chicken Filets,Share_percent,True
+S12,Breaded Chicken Filets,Selected_folds,True
+S12,Breaded Chicken Filets,Successful_folds,True
+S12,Breaded Chicken Filets,Share_percent,True
+S12,Breakfast Sausages,Selected_folds,True
+S12,Breakfast Sausages,Successful_folds,True
+S12,Breakfast Sausages,Share_percent,True
+S12,Breakfast Sausages,Selected_folds,True
+S12,Breakfast Sausages,Successful_folds,True
+S12,Breakfast Sausages,Share_percent,True
+S12,Burgers,Selected_folds,True
+S12,Burgers,Successful_folds,True
+S12,Burgers,Share_percent,True
+S12,Burgers,Selected_folds,True
+S12,Burgers,Successful_folds,True
+S12,Burgers,Share_percent,True
+S12,Burgers,Selected_folds,True
+S12,Burgers,Successful_folds,True
+S12,Burgers,Share_percent,True
+S12,Burgers,Selected_folds,True
+S12,Burgers,Successful_folds,True
+S12,Burgers,Share_percent,True
+S12,Chicken Nuggets,Selected_folds,True
+S12,Chicken Nuggets,Successful_folds,True
+S12,Chicken Nuggets,Share_percent,True
+S12,Chicken Nuggets,Selected_folds,True
+S12,Chicken Nuggets,Successful_folds,True
+S12,Chicken Nuggets,Share_percent,True
+S12,Chicken Nuggets,Selected_folds,True
+S12,Chicken Nuggets,Successful_folds,True
+S12,Chicken Nuggets,Share_percent,True
+S12,Chicken Nuggets,Selected_folds,True
+S12,Chicken Nuggets,Successful_folds,True
+S12,Chicken Nuggets,Share_percent,True
+S12,Deli Ham,Selected_folds,True
+S12,Deli Ham,Successful_folds,True
+S12,Deli Ham,Share_percent,True
+S12,Deli Ham,Selected_folds,True
+S12,Deli Ham,Successful_folds,True
+S12,Deli Ham,Share_percent,True
+S12,Deli Ham,Selected_folds,True
+S12,Deli Ham,Successful_folds,True
+S12,Deli Ham,Share_percent,True
+S12,Deli Turkey,Selected_folds,True
+S12,Deli Turkey,Successful_folds,True
+S12,Deli Turkey,Share_percent,True
+S12,Deli Turkey,Selected_folds,True
+S12,Deli Turkey,Successful_folds,True
+S12,Deli Turkey,Share_percent,True
+S12,Hot Dogs,Selected_folds,True
+S12,Hot Dogs,Successful_folds,True
+S12,Hot Dogs,Share_percent,True
+S12,Meatballs,Selected_folds,True
+S12,Meatballs,Successful_folds,True
+S12,Meatballs,Share_percent,True
+S12,Pulled Pork,Selected_folds,True
+S12,Pulled Pork,Successful_folds,True
+S12,Pulled Pork,Share_percent,True
+S12,Pulled Pork,Selected_folds,True
+S12,Pulled Pork,Successful_folds,True
+S12,Pulled Pork,Share_percent,True
+S12,Steak,Selected_folds,True
+S12,Steak,Successful_folds,True
+S12,Steak,Share_percent,True
+S12,Steak,Selected_folds,True
+S12,Steak,Successful_folds,True
+S12,Steak,Share_percent,True
+S12,Unbreaded Chicken Filets,Selected_folds,True
+S12,Unbreaded Chicken Filets,Successful_folds,True
+S12,Unbreaded Chicken Filets,Share_percent,True
+S12,Unbreaded Chicken Filets,Selected_folds,True
+S12,Unbreaded Chicken Filets,Successful_folds,True
+S12,Unbreaded Chicken Filets,Share_percent,True
+S12,Unbreaded Chicken Filets,Selected_folds,True
+S12,Unbreaded Chicken Filets,Successful_folds,True
+S12,Unbreaded Chicken Filets,Share_percent,True
+S12,Unbreaded Chicken Strips and Chunks,Selected_folds,True
+S12,Unbreaded Chicken Strips and Chunks,Successful_folds,True
+S12,Unbreaded Chicken Strips and Chunks,Share_percent,True
+S12,Unbreaded Chicken Strips and Chunks,Selected_folds,True
+S12,Unbreaded Chicken Strips and Chunks,Successful_folds,True
+S12,Unbreaded Chicken Strips and Chunks,Share_percent,True
+S12,Unbreaded Chicken Strips and Chunks,Selected_folds,True
+S12,Unbreaded Chicken Strips and Chunks,Successful_folds,True
+S12,Unbreaded Chicken Strips and Chunks,Share_percent,True
+S13,Deli Ham,Pearson_r,True
+S13,Deli Ham,Pearson_p,True
+S13,Deli Ham,Spearman_rho,True
+S13,Deli Ham,Spearman_p,True
+S13,Deli Ham,n,True
+S13,Deli Ham,OL_difference,True
+S13,Deli Ham,Plant_purchase,True
+S13,Deli Ham,Conventional_purchase,True
+S13,Deli Ham,Purchase_difference,True
+S13,Deli Ham,Plant_at_least_conventional_percent,True
+S13,Meatballs,Pearson_r,True
+S13,Meatballs,Pearson_p,True
+S13,Meatballs,Spearman_rho,True
+S13,Meatballs,Spearman_p,True
+S13,Meatballs,n,True
+S13,Meatballs,OL_difference,True
+S13,Meatballs,Plant_purchase,True
+S13,Meatballs,Conventional_purchase,True
+S13,Meatballs,Purchase_difference,True
+S13,Meatballs,Plant_at_least_conventional_percent,True
+S14,Bacon,n,True
+S14,Bacon,Plant_higher_percent,True
+S14,Bacon,Equal_percent,True
+S14,Bacon,Animal_higher_percent,True
+S14,Bacon,Raw_same_or_better_percent,True
+S14,Bratwurst,n,True
+S14,Bratwurst,Plant_higher_percent,True
+S14,Bratwurst,Equal_percent,True
+S14,Bratwurst,Animal_higher_percent,True
+S14,Bratwurst,Raw_same_or_better_percent,True
+S14,Breaded Chicken Filets,n,True
+S14,Breaded Chicken Filets,Plant_higher_percent,True
+S14,Breaded Chicken Filets,Equal_percent,True
+S14,Breaded Chicken Filets,Animal_higher_percent,True
+S14,Breaded Chicken Filets,Raw_same_or_better_percent,True
+S14,Breakfast Sausages,n,True
+S14,Breakfast Sausages,Plant_higher_percent,True
+S14,Breakfast Sausages,Equal_percent,True
+S14,Breakfast Sausages,Animal_higher_percent,True
+S14,Breakfast Sausages,Raw_same_or_better_percent,True
+S14,Burgers,n,True
+S14,Burgers,Plant_higher_percent,True
+S14,Burgers,Equal_percent,True
+S14,Burgers,Animal_higher_percent,True
+S14,Burgers,Raw_same_or_better_percent,True
+S14,Chicken Nuggets,n,True
+S14,Chicken Nuggets,Plant_higher_percent,True
+S14,Chicken Nuggets,Equal_percent,True
+S14,Chicken Nuggets,Animal_higher_percent,True
+S14,Chicken Nuggets,Raw_same_or_better_percent,True
+S14,Deli Ham,n,True
+S14,Deli Ham,Plant_higher_percent,True
+S14,Deli Ham,Equal_percent,True
+S14,Deli Ham,Animal_higher_percent,True
+S14,Deli Ham,Raw_same_or_better_percent,True
+S14,Deli Turkey,n,True
+S14,Deli Turkey,Plant_higher_percent,True
+S14,Deli Turkey,Equal_percent,True
+S14,Deli Turkey,Animal_higher_percent,True
+S14,Deli Turkey,Raw_same_or_better_percent,True
+S14,Hot Dogs,n,True
+S14,Hot Dogs,Plant_higher_percent,True
+S14,Hot Dogs,Equal_percent,True
+S14,Hot Dogs,Animal_higher_percent,True
+S14,Hot Dogs,Raw_same_or_better_percent,True
+S14,Meatballs,n,True
+S14,Meatballs,Plant_higher_percent,True
+S14,Meatballs,Equal_percent,True
+S14,Meatballs,Animal_higher_percent,True
+S14,Meatballs,Raw_same_or_better_percent,True
+S14,Pulled Pork,n,True
+S14,Pulled Pork,Plant_higher_percent,True
+S14,Pulled Pork,Equal_percent,True
+S14,Pulled Pork,Animal_higher_percent,True
+S14,Pulled Pork,Raw_same_or_better_percent,True
+S14,Steak,n,True
+S14,Steak,Plant_higher_percent,True
+S14,Steak,Equal_percent,True
+S14,Steak,Animal_higher_percent,True
+S14,Steak,Raw_same_or_better_percent,True
+S14,Unbreaded Chicken Filets,n,True
+S14,Unbreaded Chicken Filets,Plant_higher_percent,True
+S14,Unbreaded Chicken Filets,Equal_percent,True
+S14,Unbreaded Chicken Filets,Animal_higher_percent,True
+S14,Unbreaded Chicken Filets,Raw_same_or_better_percent,True
+S14,Unbreaded Chicken Strips and Chunks,n,True
+S14,Unbreaded Chicken Strips and Chunks,Plant_higher_percent,True
+S14,Unbreaded Chicken Strips and Chunks,Equal_percent,True
+S14,Unbreaded Chicken Strips and Chunks,Animal_higher_percent,True
+S14,Unbreaded Chicken Strips and Chunks,Raw_same_or_better_percent,True
+S15,Unbreaded Chicken Filets,Mean_difference,True
+S15,Unbreaded Chicken Filets,CI95_lower,True
+S15,Unbreaded Chicken Filets,CI95_upper,True
+S15,Unbreaded Chicken Filets,Cohen_dz,True
+S15,Unbreaded Chicken Filets,Bootstrap_dz_95_lower,True
+S15,Unbreaded Chicken Filets,Bootstrap_dz_95_upper,True
+S15,Unbreaded Chicken Filets,n,True
+S15,Unbreaded Chicken Filets,Hedges_gz,True
+S15,Unbreaded Chicken Filets,Matched_rank_biserial,True
+S15,Chicken Nuggets,Mean_difference,True
+S15,Chicken Nuggets,CI95_lower,True
+S15,Chicken Nuggets,CI95_upper,True
+S15,Chicken Nuggets,Cohen_dz,True
+S15,Chicken Nuggets,Bootstrap_dz_95_lower,True
+S15,Chicken Nuggets,Bootstrap_dz_95_upper,True
+S15,Chicken Nuggets,n,True
+S15,Chicken Nuggets,Hedges_gz,True
+S15,Chicken Nuggets,Matched_rank_biserial,True
+S15,Burgers,Mean_difference,True
+S15,Burgers,CI95_lower,True
+S15,Burgers,CI95_upper,True
+S15,Burgers,Cohen_dz,True
+S15,Burgers,Bootstrap_dz_95_lower,True
+S15,Burgers,Bootstrap_dz_95_upper,True
+S15,Burgers,n,True
+S15,Burgers,Hedges_gz,True
+S15,Burgers,Matched_rank_biserial,True
+S15,Hot Dogs,Mean_difference,True
+S15,Hot Dogs,CI95_lower,True
+S15,Hot Dogs,CI95_upper,True
+S15,Hot Dogs,Cohen_dz,True
+S15,Hot Dogs,Bootstrap_dz_95_lower,True
+S15,Hot Dogs,Bootstrap_dz_95_upper,True
+S15,Hot Dogs,n,True
+S15,Hot Dogs,Hedges_gz,True
+S15,Hot Dogs,Matched_rank_biserial,True
+S15,Meatballs,Mean_difference,True
+S15,Meatballs,CI95_lower,True
+S15,Meatballs,CI95_upper,True
+S15,Meatballs,Cohen_dz,True
+S15,Meatballs,Bootstrap_dz_95_lower,True
+S15,Meatballs,Bootstrap_dz_95_upper,True
+S15,Meatballs,n,True
+S15,Meatballs,Hedges_gz,True
+S15,Meatballs,Matched_rank_biserial,True
+S15,Deli Turkey,Mean_difference,True
+S15,Deli Turkey,CI95_lower,True
+S15,Deli Turkey,CI95_upper,True
+S15,Deli Turkey,Cohen_dz,True
+S15,Deli Turkey,Bootstrap_dz_95_lower,True
+S15,Deli Turkey,Bootstrap_dz_95_upper,True
+S15,Deli Turkey,n,True
+S15,Deli Turkey,Hedges_gz,True
+S15,Deli Turkey,Matched_rank_biserial,True
+S15,Breaded Chicken Filets,Mean_difference,True
+S15,Breaded Chicken Filets,CI95_lower,True
+S15,Breaded Chicken Filets,CI95_upper,True
+S15,Breaded Chicken Filets,Cohen_dz,True
+S15,Breaded Chicken Filets,Bootstrap_dz_95_lower,True
+S15,Breaded Chicken Filets,Bootstrap_dz_95_upper,True
+S15,Breaded Chicken Filets,n,True
+S15,Breaded Chicken Filets,Hedges_gz,True
+S15,Breaded Chicken Filets,Matched_rank_biserial,True
+S15,Pulled Pork,Mean_difference,True
+S15,Pulled Pork,CI95_lower,True
+S15,Pulled Pork,CI95_upper,True
+S15,Pulled Pork,Cohen_dz,True
+S15,Pulled Pork,Bootstrap_dz_95_lower,True
+S15,Pulled Pork,Bootstrap_dz_95_upper,True
+S15,Pulled Pork,n,True
+S15,Pulled Pork,Hedges_gz,True
+S15,Pulled Pork,Matched_rank_biserial,True
+S15,Breakfast Sausages,Mean_difference,True
+S15,Breakfast Sausages,CI95_lower,True
+S15,Breakfast Sausages,CI95_upper,True
+S15,Breakfast Sausages,Cohen_dz,True
+S15,Breakfast Sausages,Bootstrap_dz_95_lower,True
+S15,Breakfast Sausages,Bootstrap_dz_95_upper,True
+S15,Breakfast Sausages,n,True
+S15,Breakfast Sausages,Hedges_gz,True
+S15,Breakfast Sausages,Matched_rank_biserial,True
+S15,Deli Ham,Mean_difference,True
+S15,Deli Ham,CI95_lower,True
+S15,Deli Ham,CI95_upper,True
+S15,Deli Ham,Cohen_dz,True
+S15,Deli Ham,Bootstrap_dz_95_lower,True
+S15,Deli Ham,Bootstrap_dz_95_upper,True
+S15,Deli Ham,n,True
+S15,Deli Ham,Hedges_gz,True
+S15,Deli Ham,Matched_rank_biserial,True
+S15,Bratwurst,Mean_difference,True
+S15,Bratwurst,CI95_lower,True
+S15,Bratwurst,CI95_upper,True
+S15,Bratwurst,Cohen_dz,True
+S15,Bratwurst,Bootstrap_dz_95_lower,True
+S15,Bratwurst,Bootstrap_dz_95_upper,True
+S15,Bratwurst,n,True
+S15,Bratwurst,Hedges_gz,True
+S15,Bratwurst,Matched_rank_biserial,True
+S15,Unbreaded Chicken Strips and Chunks,Mean_difference,True
+S15,Unbreaded Chicken Strips and Chunks,CI95_lower,True
+S15,Unbreaded Chicken Strips and Chunks,CI95_upper,True
+S15,Unbreaded Chicken Strips and Chunks,Cohen_dz,True
+S15,Unbreaded Chicken Strips and Chunks,Bootstrap_dz_95_lower,True
+S15,Unbreaded Chicken Strips and Chunks,Bootstrap_dz_95_upper,True
+S15,Unbreaded Chicken Strips and Chunks,n,True
+S15,Unbreaded Chicken Strips and Chunks,Hedges_gz,True
+S15,Unbreaded Chicken Strips and Chunks,Matched_rank_biserial,True
+S15,Steak,Mean_difference,True
+S15,Steak,CI95_lower,True
+S15,Steak,CI95_upper,True
+S15,Steak,Cohen_dz,True
+S15,Steak,Bootstrap_dz_95_lower,True
+S15,Steak,Bootstrap_dz_95_upper,True
+S15,Steak,n,True
+S15,Steak,Hedges_gz,True
+S15,Steak,Matched_rank_biserial,True
+S15,Bacon,Mean_difference,True
+S15,Bacon,CI95_lower,True
+S15,Bacon,CI95_upper,True
+S15,Bacon,Cohen_dz,True
+S15,Bacon,Bootstrap_dz_95_lower,True
+S15,Bacon,Bootstrap_dz_95_upper,True
+S15,Bacon,n,True
+S15,Bacon,Hedges_gz,True
+S15,Bacon,Matched_rank_biserial,True
+S16,"('Unbreaded Chicken Filets', 0.3)",Source_leader_Holm_p,True
+S16,"('Unbreaded Chicken Filets', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Unbreaded Chicken Filets', 0.5)",Source_leader_Holm_p,True
+S16,"('Unbreaded Chicken Filets', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Unbreaded Chicken Filets', 0.7)",Source_leader_Holm_p,True
+S16,"('Unbreaded Chicken Filets', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Chicken Nuggets', 0.3)",Source_leader_Holm_p,True
+S16,"('Chicken Nuggets', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Chicken Nuggets', 0.5)",Source_leader_Holm_p,True
+S16,"('Chicken Nuggets', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Chicken Nuggets', 0.7)",Source_leader_Holm_p,True
+S16,"('Chicken Nuggets', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Burgers', 0.3)",Source_leader_Holm_p,True
+S16,"('Burgers', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Burgers', 0.5)",Source_leader_Holm_p,True
+S16,"('Burgers', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Burgers', 0.7)",Source_leader_Holm_p,True
+S16,"('Burgers', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Hot Dogs', 0.3)",Source_leader_Holm_p,True
+S16,"('Hot Dogs', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Hot Dogs', 0.5)",Source_leader_Holm_p,True
+S16,"('Hot Dogs', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Hot Dogs', 0.7)",Source_leader_Holm_p,True
+S16,"('Hot Dogs', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Meatballs', 0.3)",Source_leader_Holm_p,True
+S16,"('Meatballs', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Meatballs', 0.5)",Source_leader_Holm_p,True
+S16,"('Meatballs', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Meatballs', 0.7)",Source_leader_Holm_p,True
+S16,"('Meatballs', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Deli Turkey', 0.3)",Source_leader_Holm_p,True
+S16,"('Deli Turkey', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Deli Turkey', 0.5)",Source_leader_Holm_p,True
+S16,"('Deli Turkey', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Deli Turkey', 0.7)",Source_leader_Holm_p,True
+S16,"('Deli Turkey', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Breaded Chicken Filets', 0.3)",Source_leader_Holm_p,True
+S16,"('Breaded Chicken Filets', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Breaded Chicken Filets', 0.5)",Source_leader_Holm_p,True
+S16,"('Breaded Chicken Filets', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Breaded Chicken Filets', 0.7)",Source_leader_Holm_p,True
+S16,"('Breaded Chicken Filets', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Pulled Pork', 0.3)",Source_leader_Holm_p,True
+S16,"('Pulled Pork', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Pulled Pork', 0.5)",Source_leader_Holm_p,True
+S16,"('Pulled Pork', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Pulled Pork', 0.7)",Source_leader_Holm_p,True
+S16,"('Pulled Pork', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Breakfast Sausages', 0.3)",Source_leader_Holm_p,True
+S16,"('Breakfast Sausages', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Breakfast Sausages', 0.5)",Source_leader_Holm_p,True
+S16,"('Breakfast Sausages', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Breakfast Sausages', 0.7)",Source_leader_Holm_p,True
+S16,"('Breakfast Sausages', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Deli Ham', 0.3)",Source_leader_Holm_p,True
+S16,"('Deli Ham', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Deli Ham', 0.5)",Source_leader_Holm_p,True
+S16,"('Deli Ham', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Deli Ham', 0.7)",Source_leader_Holm_p,True
+S16,"('Deli Ham', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Bratwurst', 0.3)",Source_leader_Holm_p,True
+S16,"('Bratwurst', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Bratwurst', 0.5)",Source_leader_Holm_p,True
+S16,"('Bratwurst', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Bratwurst', 0.7)",Source_leader_Holm_p,True
+S16,"('Bratwurst', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Unbreaded Chicken Strips and Chunks', 0.3)",Source_leader_Holm_p,True
+S16,"('Unbreaded Chicken Strips and Chunks', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Unbreaded Chicken Strips and Chunks', 0.5)",Source_leader_Holm_p,True
+S16,"('Unbreaded Chicken Strips and Chunks', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Unbreaded Chicken Strips and Chunks', 0.7)",Source_leader_Holm_p,True
+S16,"('Unbreaded Chicken Strips and Chunks', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Steak', 0.3)",Source_leader_Holm_p,True
+S16,"('Steak', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Steak', 0.5)",Source_leader_Holm_p,True
+S16,"('Steak', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Steak', 0.7)",Source_leader_Holm_p,True
+S16,"('Steak', 0.7)",Minimum_candidate_Holm_p,True
+S16,"('Bacon', 0.3)",Source_leader_Holm_p,True
+S16,"('Bacon', 0.3)",Minimum_candidate_Holm_p,True
+S16,"('Bacon', 0.5)",Source_leader_Holm_p,True
+S16,"('Bacon', 0.5)",Minimum_candidate_Holm_p,True
+S16,"('Bacon', 0.7)",Source_leader_Holm_p,True
+S16,"('Bacon', 0.7)",Minimum_candidate_Holm_p,True

@@ -1,0 +1,32 @@
+variable,variable_label,characteristic_level,level_order,n,n_total,n_nonmissing,percent_total,percent_nonmissing,n_percent_total,n_percent_nonmissing
+age_group,Age,18-25,1,501,2682,2682,18.680089485458613,18.680089485458613,501 (18.7%),501 (18.7%)
+age_group,Age,26-35,2,852,2682,2682,31.767337807606264,31.767337807606264,852 (31.8%),852 (31.8%)
+age_group,Age,36-45,3,543,2682,2682,20.24608501118568,20.24608501118568,543 (20.2%),543 (20.2%)
+age_group,Age,46-55,4,422,2682,2682,15.734526472781507,15.734526472781507,422 (15.7%),422 (15.7%)
+age_group,Age,Greater than 55,5,364,2682,2682,13.571961222967934,13.571961222967934,364 (13.6%),364 (13.6%)
+age_group,Age,Missing/No response,6,0,2682,2682,0,,0 (0.0%),
+consumption_frequency,Category-specific consumption frequency,Never or rarely,1,5,2682,2675,0.18642803877703207,0.18691588785046728,5 (0.2%),5 (0.2%)
+consumption_frequency,Category-specific consumption frequency,2-3 times a year,2,7,2682,2675,0.2609992542878449,0.2616822429906542,7 (0.3%),7 (0.3%)
+consumption_frequency,Category-specific consumption frequency,4-5 times a year,3,3,2682,2675,0.11185682326621924,0.11214953271028037,3 (0.1%),3 (0.1%)
+consumption_frequency,Category-specific consumption frequency,Once every 1-2 months,4,638,2682,2675,23.788217747949293,23.850467289719628,638 (23.8%),638 (23.9%)
+consumption_frequency,Category-specific consumption frequency,2-3 times a month,5,851,2682,2675,31.730052199850856,31.813084112149532,851 (31.7%),851 (31.8%)
+consumption_frequency,Category-specific consumption frequency,Once a week,6,585,2682,2675,21.812080536912752,21.869158878504674,585 (21.8%),585 (21.9%)
+consumption_frequency,Category-specific consumption frequency,2-3 times a week,7,530,2682,2675,19.7613721103654,19.813084112149532,530 (19.8%),530 (19.8%)
+consumption_frequency,Category-specific consumption frequency,Everyday,8,56,2682,2675,2.087994034302759,2.0934579439252334,56 (2.1%),56 (2.1%)
+consumption_frequency,Category-specific consumption frequency,Missing/No response,9,7,2682,2675,0.2609992542878449,,7 (0.3%),
+dietary_preference,Dietary preference,Omnivore,1,2013,2682,2675,75.0559284116331,75.25233644859813,2013 (75.1%),2013 (75.3%)
+dietary_preference,Dietary preference,Flexitarian,2,662,2682,2675,24.683072334079046,24.747663551401867,662 (24.7%),662 (24.7%)
+dietary_preference,Dietary preference,Missing/No response,3,7,2682,2675,0.2609992542878449,,7 (0.3%),
+education,Education,Some High School,1,18,2682,2675,0.6711409395973155,0.6728971962616822,18 (0.7%),18 (0.7%)
+education,Education,High School,2,158,2682,2675,5.891126025354214,5.906542056074766,158 (5.9%),158 (5.9%)
+education,Education,Trade School,3,29,2682,2675,1.081282624906786,1.0841121495327102,29 (1.1%),29 (1.1%)
+education,Education,Some College,4,657,2682,2675,24.496644295302012,24.560747663551403,657 (24.5%),657 (24.6%)
+education,Education,Bachelor's Degree,5,1213,2682,2675,45.22744220730798,45.345794392523366,1213 (45.2%),1213 (45.3%)
+education,Education,Master's Degree,6,516,2682,2675,19.23937360178971,19.289719626168225,516 (19.2%),516 (19.3%)
+education,Education,Ph.D. or higher,7,84,2682,2675,3.131991051454139,3.1401869158878504,84 (3.1%),84 (3.1%)
+education,Education,Missing/No response,8,7,2682,2675,0.2609992542878449,,7 (0.3%),
+gender,Gender,Female,1,1318,2682,2682,49.142431021625654,49.142431021625654,1318 (49.1%),1318 (49.1%)
+gender,Gender,Male,2,1240,2682,2682,46.23415361670395,46.23415361670395,1240 (46.2%),1240 (46.2%)
+gender,Gender,Non-binary,3,65,2682,2682,2.423564504101417,2.423564504101417,65 (2.4%),65 (2.4%)
+gender,Gender,Prefer not to say,4,59,2682,2682,2.1998508575689786,2.1998508575689786,59 (2.2%),59 (2.2%)
+gender,Gender,Missing/No response,5,0,2682,2682,0,,0 (0.0%),

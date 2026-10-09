@@ -1,0 +1,3 @@
+Category,n,OL_difference,Plant_purchase,Conventional_purchase,Purchase_difference,Plant_at_least_conventional_percent,Pearson_r,Pearson_p,Spearman_rho,Spearman_p
+Deli Ham,105,-0.81,4.867,5.971,-1.105,49.5,0.115,0.244,0.089,0.365
+Meatballs,99,-0.455,5.111,5.848,-0.737,48.5,0.135,0.184,0.167,0.099

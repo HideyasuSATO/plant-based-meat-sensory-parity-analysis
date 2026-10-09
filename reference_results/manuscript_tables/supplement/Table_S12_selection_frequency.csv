@@ -1,0 +1,34 @@
+Category,Product_code,Source_designated_leader,Selected_folds,Successful_folds,Share_percent
+Bacon,334,TRUE,1318,2500,52.72
+Bacon,257,FALSE,1172,2500,46.88
+Bacon,182,FALSE,10,2500,0.4
+Bratwurst,702,TRUE,2500,2500,100
+Breaded Chicken Filets,491,TRUE,2490,2500,99.6
+Breaded Chicken Filets,922,FALSE,10,2500,0.4
+Breakfast Sausages,491,FALSE,1476,2500,59.04
+Breakfast Sausages,413,TRUE,1024,2500,40.96
+Burgers,922,TRUE,2231,2500,89.24
+Burgers,164,FALSE,216,2500,8.64
+Burgers,206,FALSE,31,2500,1.24
+Burgers,285,FALSE,22,2500,0.88
+Chicken Nuggets,206,TRUE,967,2500,38.68
+Chicken Nuggets,798,FALSE,934,2500,37.36
+Chicken Nuggets,396,FALSE,446,2500,17.84
+Chicken Nuggets,426,FALSE,153,2500,6.12
+Deli Ham,923,TRUE,2294,2500,91.76
+Deli Ham,491,FALSE,205,2500,8.2
+Deli Ham,859,FALSE,1,2500,0.04
+Deli Turkey,491,TRUE,2488,2500,99.52
+Deli Turkey,674,FALSE,12,2500,0.48
+Hot Dogs,164,TRUE,2500,2500,100
+Meatballs,859,TRUE,2500,2500,100
+Pulled Pork,651,TRUE,2495,2500,99.8
+Pulled Pork,798,FALSE,5,2500,0.2
+Steak,923,TRUE,2080,2500,83.2
+Steak,413,FALSE,420,2500,16.8
+Unbreaded Chicken Filets,413,TRUE,2349,2500,93.96
+Unbreaded Chicken Filets,257,FALSE,149,2500,5.96
+Unbreaded Chicken Filets,923,FALSE,2,2500,0.08
+Unbreaded Chicken Strips and Chunks,702,TRUE,1958,2500,78.32
+Unbreaded Chicken Strips and Chunks,923,FALSE,502,2500,20.08
+Unbreaded Chicken Strips and Chunks,548,FALSE,40,2500,1.6
